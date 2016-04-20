@@ -1,0 +1,34 @@
+-------5.results/QE_150611_152/QE_150611_152.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 subfamily            Azotobacter group                       
+687        25      99.85 species group        Pseudomonas aeruginosa group            
+920        231     99.35 genus                Pseudomonas                             
+1001       80      99.31 family               Pseudomonadaceae                        
+662        659     99.10 species              Pseudomonas aeruginosa                  
+1          1       14.29 no rank              Methylomicrobium alcaliphilum 20Z       
+1          1       14.29 no rank              Pseudomonas aeruginosa B136-33          
+1          1       14.29 no rank              Pseudomonas aeruginosa SCV20265         
+1          1       14.29 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1       14.29 no rank              Pseudomonas entomophila L48             
+1          1       14.29 no rank              Pseudomonas fulva 12-X                  
+1          1       14.29 no rank              Variovorax paradoxus S110               
+2          2        0.20 family               Enterobacteriaceae                      
+1          1        0.15 species              Azotobacter vinelandii                  
+1          0        0.15 species              Methylomicrobium alcaliphilum           
+1          0        0.15 species              Pseudomonas entomophila                 
+1          0        0.15 species              Pseudomonas fulva                       
+1          0        0.15 species              Variovorax paradoxus                    
+1          1        0.15 species              Vibrio cholerae                         
+1          0        0.15 species group        Pseudomonas putida group                
+1          1        0.11 genus                Acinetobacter                           
+1          0        0.11 genus                Azotobacter                             
+1          0        0.11 genus                Methylomicrobium                        
+1          1        0.11 genus                Nitrosococcus                           
+1          0        0.11 genus                Variovorax                              
+1          0        0.11 genus                Vibrio                                  
+1          0        0.10 family               Chromatiaceae                           
+1          0        0.10 family               Comamonadaceae                          
+1          0        0.10 family               Methylococcaceae                        
+1          0        0.10 family               Moraxellaceae                           
+1          0        0.10 family               Vibrionaceae                            

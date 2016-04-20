@@ -1,0 +1,65 @@
+--------5.results/QE_150508_38/QE_150508_38.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+3          1      100.00 species group        Streptococcus anginosus group           
+1750       1502    99.04 genus                Streptococcus                           
+1828       77      98.97 family               Streptococcaceae                        
+235        233     89.69 species              Streptococcus pneumoniae                
+1          0       50.00 subspecies           Lactococcus lactis subsp. lactis        
+1          1       50.00 subspecies           Streptococcus constellatus subsp. pharyngis
+3          3       23.08 no rank              Ruminococcus bromii L2-63               
+2          2       15.38 no rank              Streptococcus pneumoniae P1031          
+1          0        7.69 no rank              Bacteroidetes/Chlorobi group            
+1          1        7.69 no rank              Lactococcus lactis subsp. lactis Il1403 
+1          1        7.69 no rank              Olsenella uli DSM 7084                  
+1          1        7.69 no rank              Streptococcus anginosus C1051           
+1          1        7.69 no rank              Streptococcus iniae SF1                 
+1          1        7.69 no rank              Streptococcus macedonicus ACA-DC 198    
+1          1        7.69 no rank              Sulfurihydrogenibium azorense Az-Fu1    
+1          1        7.69 no rank              Weissella koreensis KACC 15510          
+3          0        1.15 species              Ruminococcus bromii                     
+3          3        1.15 species              Streptococcus mutans                    
+2          2        0.76 species              Lactobacillus brevis                    
+2          2        0.76 species              Streptococcus suis                      
+1          1        0.38 species              Blattabacterium sp. (Blaberus giganteus)
+1          1        0.38 species              Clostridium kluyveri                    
+1          1        0.38 species              Gardnerella vaginalis                   
+1          1        0.38 species              Lactobacillus reuteri                   
+1          0        0.38 species              Lactococcus lactis                      
+1          0        0.38 species              Olsenella uli                           
+1          1        0.38 species              Paenibacillus sp. JDR-2                 
+1          1        0.38 species              Staphylococcus pseudintermedius         
+1          1        0.38 species              Streptococcus agalactiae                
+1          0        0.38 species              Streptococcus anginosus                 
+1          0        0.38 species              Streptococcus constellatus              
+1          0        0.38 species              Streptococcus iniae                     
+1          0        0.38 species              Streptococcus macedonicus               
+1          1        0.38 species              Streptococcus pyogenes                  
+1          1        0.38 species              Streptococcus thermophilus              
+1          0        0.38 species              Sulfurihydrogenibium azorense           
+1          0        0.38 species              Weissella koreensis                     
+3          0        0.17 genus                Lactobacillus                           
+3          0        0.17 genus                Ruminococcus                            
+3          0        0.16 family               Lactobacillaceae                        
+3          0        0.16 family               Ruminococcaceae                         
+2          1        0.11 genus                Staphylococcus                          
+2          1        0.11 family               Bacillaceae                             
+2          0        0.11 family               Staphylococcaceae                       
+1          1        0.06 genus                Bacillus                                
+1          0        0.06 genus                Blattabacterium                         
+1          0        0.06 genus                Clostridium                             
+1          0        0.06 genus                Gardnerella                             
+1          0        0.06 genus                Lactococcus                             
+1          0        0.06 genus                Olsenella                               
+1          0        0.06 genus                Paenibacillus                           
+1          0        0.06 genus                Sulfurihydrogenibium                    
+1          0        0.06 genus                Weissella                               
+1          0        0.05 family               Atopobiaceae                            
+1          0        0.05 family               Bifidobacteriaceae                      
+1          0        0.05 family               Blattabacteriaceae                      
+1          0        0.05 family               Clostridiaceae                          
+1          1        0.05 family               Enterococcaceae                         
+1          0        0.05 family               Hydrogenothermaceae                     
+1          1        0.05 family               Lachnospiraceae                         
+1          0        0.05 family               Leuconostocaceae                        
+1          0        0.05 family               Paenibacillaceae                        

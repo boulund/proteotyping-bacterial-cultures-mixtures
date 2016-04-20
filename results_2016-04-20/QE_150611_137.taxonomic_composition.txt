@@ -1,0 +1,31 @@
+-------5.results/QE_150611_137/QE_150611_137.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1109       44      99.64 family               Staphylococcaceae                       
+1065       707     99.63 genus                Staphylococcus                          
+353        348     97.51 species              Staphylococcus aureus                   
+4          2       66.67 subspecies           Staphylococcus aureus subsp. aureus     
+1          0       16.67 subspecies           Staphylococcus carnosus subsp. carnosus 
+1          0       16.67 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1       12.50 no rank              Methanoregula formicica SMSP            
+1          1       12.50 no rank              Spirochaeta smaragdinae DSM 11293       
+1          1       12.50 no rank              Staphylococcus aureus CA-347            
+1          1       12.50 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1       12.50 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          1       12.50 no rank              Staphylococcus carnosus subsp. carnosus TM300
+1          1       12.50 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1       12.50 no rank              Streptomyces rapamycinicus NRRL 5491    
+2          2        0.55 species              Staphylococcus argenteus                
+1          0        0.28 species              Methanoregula formicica                 
+1          0        0.28 species              Spirochaeta smaragdinae                 
+1          1        0.28 species              Spirochaeta thermophila                 
+1          0        0.28 species              Staphylococcus carnosus                 
+1          1        0.28 species              Staphylococcus epidermidis              
+1          0        0.28 species              Staphylococcus saprophyticus            
+1          0        0.28 species              Streptomyces rapamycinicus              
+2          0        0.19 genus                Spirochaeta                             
+2          0        0.18 family               Spirochaetaceae                         
+1          0        0.09 genus                Methanoregula                           
+1          0        0.09 genus                Streptomyces                            
+1          0        0.09 family               Methanoregulaceae                       
+1          0        0.09 family               Streptomycetaceae                       

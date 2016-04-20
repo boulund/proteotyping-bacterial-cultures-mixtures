@@ -1,0 +1,70 @@
+-------5.results/QE_150611_140/QE_150611_140.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 species group        Enterobacter cloacae complex            
+628        411     95.73 family               Enterobacteriaceae                      
+207        82      85.54 genus                Escherichia                             
+125        124     83.33 species              Escherichia coli                        
+5          0       35.71 subspecies           Syntrophomonas wolfei subsp. wolfei     
+4          0       28.57 subspecies           Morganella morganii subsp. morganii     
+4          0       28.57 subspecies           Selenomonas ruminantium subsp. lactilytica
+5          5       19.23 no rank              Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+4          4       15.38 no rank              Morganella morganii subsp. morganii KT  
+4          4       15.38 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+2          0        7.69 no rank              Fibrobacteres/Acidobacteria group       
+1          0        7.14 subspecies           Enterobacter cloacae subsp. cloacae     
+1          1        3.85 no rank              Baumannia cicadellinicola str. Hc (Homalodisca coagulata)
+1          1        3.85 no rank              Butyrivibrio fibrisolvens 16/4          
+1          0        3.85 no rank              Candidatus Baumannia                    
+1          1        3.85 no rank              Citrobacter rodentium ICC168            
+1          1        3.85 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        3.85 no rank              Escherichia coli ED1a                   
+1          1        3.85 no rank              Haemophilus influenzae F3031            
+1          1        3.85 no rank              Pantoea vagans C9-1                     
+1          1        3.85 no rank              Shewanella woodyi ATCC 51908            
+1          1        3.85 no rank              Tolumonas auensis DSM 9187              
+1          0        3.85 no rank              unclassified Gammaproteobacteria        
+5          0        3.33 species              Syntrophomonas wolfei                   
+7          6        2.89 genus                Staphylococcus                          
+4          0        2.67 species              Morganella morganii                     
+4          0        2.67 species              Selenomonas ruminantium                 
+5          0        2.07 genus                Syntrophomonas                          
+4          0        1.65 genus                Morganella                              
+4          0        1.65 genus                Selenomonas                             
+7          0        1.07 family               Staphylococcaceae                       
+2          2        0.83 genus                Pseudomonas                             
+5          0        0.76 family               Syntrophomonadaceae                     
+1          1        0.67 species              Buchnera aphidicola                     
+1          1        0.67 species              Burkholderia sp. CCGE1003               
+1          0        0.67 species              Butyrivibrio fibrisolvens               
+1          0        0.67 species              Candidatus Baumannia cicadellinicola    
+1          0        0.67 species              Citrobacter rodentium                   
+1          0        0.67 species              Enterobacter cloacae                    
+1          0        0.67 species              Haemophilus influenzae                  
+1          0        0.67 species              Pantoea vagans                          
+1          1        0.67 species              Pasteurella multocida                   
+1          0        0.67 species              Shewanella woodyi                       
+1          1        0.67 species              Staphylococcus aureus                   
+1          0        0.67 species              Tolumonas auensis                       
+4          0        0.61 family               Veillonellaceae                         
+1          0        0.41 genus                Buchnera                                
+1          0        0.41 genus                Burkholderia                            
+1          0        0.41 genus                Butyrivibrio                            
+1          0        0.41 genus                Citrobacter                             
+1          0        0.41 genus                Enterobacter                            
+1          0        0.41 genus                Haemophilus                             
+1          0        0.41 genus                Pantoea                                 
+1          0        0.41 genus                Pasteurella                             
+1          1        0.41 genus                Salmonella                              
+1          0        0.41 genus                Shewanella                              
+1          1        0.41 genus                Spiroplasma                             
+1          0        0.41 genus                Tolumonas                               
+1          1        0.41 genus                Yersinia                                
+2          2        0.30 family               Acidobacteriaceae                       
+2          1        0.30 family               Lachnospiraceae                         
+2          0        0.30 family               Pasteurellaceae                         
+2          0        0.30 family               Pseudomonadaceae                        
+1          0        0.15 family               Aeromonadaceae                          
+1          0        0.15 family               Burkholderiaceae                        
+1          0        0.15 family               Shewanellaceae                          
+1          0        0.15 family               Spiroplasmataceae                       

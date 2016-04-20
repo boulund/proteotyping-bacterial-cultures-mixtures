@@ -1,0 +1,68 @@
+Results at rank 'species' for file 4.blast8/QE_150611_131.blast8
+----------------------------------------------------------------------
+     %  #         TAXID       TAXNAME
+ 98.93  1111      1280        Staphylococcus aureus         
+  0.18  2         283734      Staphylococcus pseudintermedius
+  0.09  1         876         Desulfovibrio desulfuricans   
+  0.09  1         34          Myxococcus xanthus            
+  0.09  1         28068       Rubrivivax gelatinosus        
+  0.09  1         721785      Acidovorax ebreus             
+  0.09  1         179636      Alicycliphilus denitrificans  
+  0.09  1         1217908     Octadecabacter antarcticus    
+  0.09  1         287         Pseudomonas aeruginosa        
+  0.09  1         584         Proteus mirabilis             
+ Total: 1123
+----------------------------------------------------------------------
+Annotated regions hit by discriminative fragments:
+geneID    #     Symbol             Species                                       Description
+5331516   29    NWMN_2454          Staphylococcus aureus subsp. aureus str. Newman 1-pyrroline-5-carboxylate dehydrogenase
+12329739  29    rocA               Staphylococcus aureus subsp. aureus str. JKD6008 1-pyrroline-5-carboxylate dehydrogenase
+17370687  29    SAZ172_2654        Staphylococcus aureus subsp. aureus Z172      Delta-1-pyrroline-5-carboxylate dehydrogenase
+11870524  29    SAVC_11650         Staphylococcus aureus subsp. aureus VC40      1-pyrroline-5-carboxylate dehydrogenase
+5774925   29    USA300HOU_2549     Staphylococcus aureus subsp. aureus USA300_TCH1516 1-pyrroline-5-carboxylate dehydrogenase
+3914029   29    SAUSA300_2491      Staphylococcus aureus subsp. aureus USA300_FPR3757 1-pyrroline-5-carboxylate dehydrogenase
+12861585  29    SATW20_26760       Staphylococcus aureus subsp. aureus TW20      aldehyde dehydrogenase family protein
+12334317  29    rocA               Staphylococcus aureus subsp. aureus TCH60     1-pyrroline-5-carboxylate dehydrogenase
+12339675  29    glnA               Staphylococcus aureus subsp. aureus T0131     1-pyrroline-5-carboxylate dehydrogenase
+12321531  29    SAPIG2605          Staphylococcus aureus subsp. aureus ST398     delta-1-pyrroline-5-carboxylate dehydrogenase, putative
+14817771  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+14839869  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+14835843  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+14837835  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+14813745  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+14809668  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+14815734  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+14811706  29    rocA               Staphylococcus aureus subsp. aureus ST228     1-pyrroline-5-carboxylate dehydrogenase
+17055085  29    SA957_2392         Staphylococcus aureus subsp. aureus SA957     aldehyde dehydrogenase family protein
+17057636  29    SA40_2308          Staphylococcus aureus subsp. aureus SA40      aldehyde dehydrogenase family protein
+3921541   29    SAOUHSC_02869      Staphylococcus aureus subsp. aureus NCTC 8325 1-pyrroline-5-carboxylate dehydrogenase
+1125269   29    rocA               Staphylococcus aureus subsp. aureus N315      1-pyrroline-5-carboxylate dehydrogenase
+1122579   29    rocA               Staphylococcus aureus subsp. aureus Mu50      1-pyrroline-5-carboxylate dehydrogenase
+5559670   29    rocA               Staphylococcus aureus subsp. aureus Mu3       1-pyrroline-5-carboxylate dehydrogenase
+1004611   29    rocA               Staphylococcus aureus subsp. aureus MW2       1-pyrroline-5-carboxylate dehydrogenase
+2863753   29    SAS2440            Staphylococcus aureus subsp. aureus MSSA476   1-pyrroline-5-carboxylate dehydrogenase
+2858920   29    SAR2634            Staphylococcus aureus subsp. aureus MRSA252   1-pyrroline-5-carboxylate dehydrogenase
+11863878  29    M013TW_2528        Staphylococcus aureus subsp. aureus M013      Delta-1-pyrroline-5-carboxylate dehydrogenase
+12906915  29    SARLGA251_23290    Staphylococcus aureus subsp. aureus LGA251    aldehyde dehydrogenase family protein
+5167191   29    SaurJH9_2576       Staphylococcus aureus subsp. aureus JH9       1-pyrroline-5-carboxylate dehydrogenase
+5315084   29    SaurJH1_2630       Staphylococcus aureus subsp. aureus JH1       1-pyrroline-5-carboxylate dehydrogenase
+12801588  29    SAEMRSA15_24570    Staphylococcus aureus subsp. aureus HO 5096 0412 aldehyde dehydrogenase family protein
+12325971  29    SAOV_2599c         Staphylococcus aureus subsp. aureus ED133     1-pyrroline-5-carboxylate dehydrogenase
+12336996  29    pruA               Staphylococcus aureus subsp. aureus ECT-R 2   delta-1-pyrroline-5-carboxylate dehydrogenase
+3237223   29    SACOL2569          Staphylococcus aureus subsp. aureus COL       1-pyrroline-5-carboxylate dehydrogenase
+16744538  29    SAKOR_02545        Staphylococcus aureus subsp. aureus CN1       Delta-1-pyrroline-5-carboxylate dehydrogenase
+12731753  29    ST398NM01_2605     Staphylococcus aureus subsp. aureus 71193     Delta-1-pyrroline-5-carboxylate dehydrogenase
+16737875  29    rocA               Staphylococcus aureus subsp. aureus 6850      1-pyrroline-5-carboxylate dehydrogenase
+16644140  29    SAAG_00375         Staphylococcus aureus subsp. aureus 55/2053   1-pyrroline-5-carboxylate dehydrogenase
+12425355  29    pruA               Staphylococcus aureus subsp. aureus 11819-97  putative delta-1-pyrroline-5-carboxylate dehydrogenase
+3794196   29    SAB2428c           Staphylococcus aureus RF122                   1-pyrroline-5-carboxylate dehydrogenase
+15300916  29    BN843_25910        Staphylococcus aureus M1                      Delta-1-pyrroline-5-carboxylate dehydrogenase
+16169829  29    CA347_2629         Staphylococcus aureus CA-347                  putative delta-1-pyrroline-5-carboxylate dehydrogenase
+16042630  29    rocA               Staphylococcus aureus Bmb9393                 1-pyrroline-5-carboxylate dehydrogenase
+13638243  29    C248_2612          Staphylococcus aureus 08BA02176               aldehyde dehydrogenase family protein
+12866193  29    rocA               Staphylococcus aureus 04-02981                Delta-1-pyrroline-5-carboxylate dehydrogenase
+11932287  28    SAMSHR1132_23750   Staphylococcus aureus subsp. aureus MSHR1132  1-pyrroline-5-carboxylate dehydrogenase
+8615354   27    SAAV_2620          Staphylococcus aureus subsp. aureus ED98      1-pyrroline-5-carboxylate dehydrogenase
+5330956   24    NWMN_1631          Staphylococcus aureus subsp. aureus str. Newman hypothetical protein
+11869724  24    SAVC_07900         Staphylococcus aureus subsp. aureus VC40      hypothetical protein
+Printed 50 out of 20329 hit annotated regions.

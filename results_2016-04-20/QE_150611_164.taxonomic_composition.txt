@@ -1,0 +1,54 @@
+-------5.results/QE_150611_164/QE_150611_164.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+208        10     100.00 species group        Pseudomonas aeruginosa group            
+198        196     53.80 species              Pseudomonas aeruginosa                  
+3          0       42.86 subspecies           Syntrophomonas wolfei subsp. wolfei     
+290        202     31.22 genus                Staphylococcus                          
+286        243     30.79 genus                Streptococcus                           
+281        73      30.25 genus                Pseudomonas                             
+3          3       30.00 no rank              Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+2          0       28.57 subspecies           Staphylococcus aureus subsp. aureus     
+316        35      26.71 family               Pseudomonadaceae                        
+301        11      25.44 family               Staphylococcaceae                       
+297        11      25.11 family               Streptococcaceae                        
+86         84      23.37 species              Staphylococcus aureus                   
+259        195     21.89 family               Enterobacteriaceae                      
+2          2       20.00 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          0       14.29 subspecies           Pectobacterium carotovorum subsp. carotovorum
+1          0       14.29 subspecies           Selenomonas ruminantium subsp. lactilytica
+43         43      11.68 species              Streptococcus pneumoniae                
+1          1       10.00 no rank              Pectobacterium carotovorum subsp. carotovorum PC1
+1          1       10.00 no rank              Pseudomonas aeruginosa B136-33          
+1          1       10.00 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1       10.00 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+1          1       10.00 no rank              Shimwellia blattae DSM 4481 = NBRC 105725
+29         29       7.88 species              Escherichia coli                        
+61         32       6.57 genus                Escherichia                             
+3          0        0.82 species              Syntrophomonas wolfei                   
+3          0        0.32 genus                Syntrophomonas                          
+1          1        0.27 species              Candidatus Pantoea carbekii             
+1          1        0.27 species              Erysipelothrix rhusiopathiae            
+1          1        0.27 species              Lactobacillus reuteri                   
+1          0        0.27 species              Pectobacterium carotovorum              
+1          1        0.27 species              Ralstonia solanacearum                  
+1          0        0.27 species              Selenomonas ruminantium                 
+1          0        0.27 species              Shimwellia blattae                      
+1          1        0.27 species              Staphylococcus argenteus                
+1          1        0.27 species              Staphylococcus pseudintermedius         
+3          0        0.25 family               Syntrophomonadaceae                     
+1          1        0.11 genus                Carnobacterium                          
+1          0        0.11 genus                Erysipelothrix                          
+1          0        0.11 genus                Lactobacillus                           
+1          0        0.11 genus                Pantoea                                 
+1          0        0.11 genus                Pectobacterium                          
+1          0        0.11 genus                Ralstonia                               
+1          0        0.11 genus                Selenomonas                             
+1          0        0.11 genus                Shimwellia                              
+1          0        0.08 family               Burkholderiaceae                        
+1          0        0.08 family               Carnobacteriaceae                       
+1          1        0.08 family               Eggerthellaceae                         
+1          0        0.08 family               Erysipelotrichaceae                     
+1          0        0.08 family               Lactobacillaceae                        
+1          1        0.08 family               Pasteurellaceae                         
+1          0        0.08 family               Veillonellaceae                         

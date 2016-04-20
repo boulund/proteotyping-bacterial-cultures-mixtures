@@ -1,0 +1,35 @@
+-------5.results/QE_150611_155/QE_150611_155.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+368        14     100.00 species group        Pseudomonas aeruginosa group            
+461        92      98.72 genus                Pseudomonas                             
+504        43      98.63 family               Pseudomonadaceae                        
+353        350     98.60 species              Pseudomonas aeruginosa                  
+1          0       50.00 subspecies           Fibrobacter succinogenes subsp. succinogenes
+1          0       50.00 subspecies           Nocardiopsis dassonvillei subsp. dassonvillei
+1          0       10.00 no rank              Bacteroidetes/Chlorobi group            
+1          1       10.00 no rank              Fibrobacter succinogenes subsp. succinogenes S85
+1          0       10.00 no rank              Fibrobacteres/Acidobacteria group       
+1          1       10.00 no rank              Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111
+1          1       10.00 no rank              Pseudomonas aeruginosa B136-33          
+1          1       10.00 no rank              Pseudomonas aeruginosa SCV20265         
+1          1       10.00 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1       10.00 no rank              Pseudomonas entomophila L48             
+1          1       10.00 no rank              Pseudomonas resinovorans NBRC 106553    
+1          1       10.00 no rank              Saprospira grandis str. Lewin           
+2          2        0.43 genus                Hyphomicrobium                          
+2          0        0.39 family               Hyphomicrobiaceae                       
+1          0        0.28 species              Fibrobacter succinogenes                
+1          0        0.28 species              Nocardiopsis dassonvillei               
+1          0        0.28 species              Pseudomonas entomophila                 
+1          0        0.28 species              Pseudomonas resinovorans                
+1          0        0.28 species              Saprospira grandis                      
+1          1        0.21 genus                Deinococcus                             
+1          0        0.21 genus                Fibrobacter                             
+1          0        0.21 genus                Nocardiopsis                            
+1          0        0.21 genus                Saprospira                              
+1          0        0.20 family               Deinococcaceae                          
+1          1        0.20 family               Enterobacteriaceae                      
+1          0        0.20 family               Fibrobacteraceae                        
+1          0        0.20 family               Nocardiopsaceae                         
+1          0        0.20 family               Saprospiraceae                          

@@ -1,0 +1,93 @@
+-------5.results/QE_150611_143/QE_150611_143.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1159       831     97.81 family               Enterobacteriaceae                      
+308        131     87.25 genus                Escherichia                             
+177        176     81.94 species              Escherichia coli                        
+8          0       50.00 subspecies           Syntrophomonas wolfei subsp. wolfei     
+1          0       50.00 species group        Enterobacter cloacae complex            
+1          1       50.00 species group        Mycoplasma mycoides group               
+4          0       25.00 subspecies           Morganella morganii subsp. morganii     
+8          8       23.53 no rank              Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+2          0       12.50 subspecies           Selenomonas ruminantium subsp. lactilytica
+4          4       11.76 no rank              Morganella morganii subsp. morganii KT  
+1          0        6.25 subspecies           Enterobacter cloacae subsp. cloacae     
+1          0        6.25 subspecies           Pectobacterium carotovorum subsp. carotovorum
+2          2        5.88 no rank              Candidatus Riesia pediculicola USDA     
+2          2        5.88 no rank              Raoultella ornithinolytica B6           
+2          2        5.88 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+8          0        3.70 species              Syntrophomonas wolfei                   
+1          1        2.94 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          0        2.94 no rank              Bacteroidetes/Chlorobi group            
+1          1        2.94 no rank              Citrobacter rodentium ICC168            
+1          1        2.94 no rank              Desulfotalea psychrophila LSv54         
+1          1        2.94 no rank              Dickeya dadantii Ech703                 
+1          1        2.94 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        2.94 no rank              Escherichia coli BW2952                 
+1          0        2.94 no rank              Escherichia coli K-12                   
+1          1        2.94 no rank              Gluconacetobacter diazotrophicus PA1 5  
+1          1        2.94 no rank              Marinomonas mediterranea MMB-1          
+1          1        2.94 no rank              Pectobacterium carotovorum subsp. carotovorum PC1
+1          1        2.94 no rank              Shimwellia blattae DSM 4481 = NBRC 105725
+1          1        2.94 no rank              Thermovirga lienii DSM 17291            
+1          1        2.94 no rank              Thermus oshimai JL-2                    
+1          0        2.94 no rank              unclassified Enterobacteriaceae         
+1          0        2.94 no rank              unclassified Enterobacteriaceae (miscellaneous)
+8          0        2.27 genus                Syntrophomonas                          
+4          4        1.85 species              Erwinia pyrifoliae                      
+4          0        1.85 species              Morganella morganii                     
+5          1        1.42 genus                Erwinia                                 
+4          0        1.13 genus                Morganella                              
+2          0        0.93 species              Candidatus Riesia pediculicola          
+2          2        0.93 species              Pasteurella multocida                   
+2          0        0.93 species              Raoultella ornithinolytica              
+2          0        0.93 species              Selenomonas ruminantium                 
+3          2        0.85 genus                Vibrio                                  
+8          0        0.68 family               Syntrophomonadaceae                     
+2          0        0.57 genus                Candidatus Riesia                       
+2          0        0.57 genus                Pasteurella                             
+2          2        0.57 genus                Pseudomonas                             
+2          0        0.57 genus                Raoultella                              
+2          0        0.57 genus                Selenomonas                             
+1          0        0.46 species              Aggregatibacter actinomycetemcomitans   
+1          1        0.46 species              Buchnera aphidicola                     
+1          0        0.46 species              Citrobacter rodentium                   
+1          0        0.46 species              Desulfotalea psychrophila               
+1          0        0.46 species              Dickeya dadantii                        
+1          0        0.46 species              Enterobacter cloacae                    
+1          1        0.46 species              Fusobacterium nucleatum                 
+1          0        0.46 species              Gluconacetobacter diazotrophicus        
+1          0        0.46 species              Marinomonas mediterranea                
+1          0        0.46 species              Pectobacterium carotovorum              
+1          1        0.46 species              Plautia stali symbiont                  
+1          0        0.46 species              Shimwellia blattae                      
+1          0        0.46 species              Thermovirga lienii                      
+1          0        0.46 species              Thermus oshimai                         
+1          1        0.46 species              Vibrio sp. EJY3                         
+1          0        0.28 genus                Aggregatibacter                         
+1          1        0.28 genus                Bordetella                              
+1          0        0.28 genus                Buchnera                                
+1          0        0.28 genus                Citrobacter                             
+1          0        0.28 genus                Desulfotalea                            
+1          0        0.28 genus                Dickeya                                 
+1          0        0.28 genus                Enterobacter                            
+1          0        0.28 genus                Fusobacterium                           
+1          0        0.28 genus                Gluconacetobacter                       
+1          0        0.28 genus                Marinomonas                             
+1          0        0.28 genus                Mycoplasma                              
+1          0        0.28 genus                Pectobacterium                          
+1          0        0.28 genus                Shimwellia                              
+1          0        0.28 genus                Thermovirga                             
+1          0        0.28 genus                Thermus                                 
+3          0        0.25 family               Pasteurellaceae                         
+3          0        0.25 family               Vibrionaceae                            
+2          0        0.17 family               Pseudomonadaceae                        
+2          0        0.17 family               Veillonellaceae                         
+1          0        0.08 family               Acetobacteraceae                        
+1          0        0.08 family               Alcaligenaceae                          
+1          0        0.08 family               Desulfobulbaceae                        
+1          0        0.08 family               Fusobacteriaceae                        
+1          0        0.08 family               Mycoplasmataceae                        
+1          0        0.08 family               Oceanospirillaceae                      
+1          0        0.08 family               Synergistaceae                          
+1          0        0.08 family               Thermaceae                              

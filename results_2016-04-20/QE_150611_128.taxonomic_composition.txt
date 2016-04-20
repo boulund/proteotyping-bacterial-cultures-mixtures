@@ -1,0 +1,36 @@
+-------5.results/QE_150611_128/QE_150611_128.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1010       34      99.51 family               Staphylococcaceae                       
+976        660     99.49 genus                Staphylococcus                          
+310        307     96.88 species              Staphylococcus aureus                   
+2          1       66.67 subspecies           Staphylococcus aureus subsp. aureus     
+1          0       33.33 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1       11.11 no rank              Agrobacterium vitis S4                  
+1          1       11.11 no rank              Lysinibacillus sphaericus C3-41         
+1          0       11.11 no rank              Rhizobium/Agrobacterium group           
+1          1       11.11 no rank              Spirochaeta smaragdinae DSM 11293       
+1          1       11.11 no rank              Staphylococcus aureus RF122             
+1          1       11.11 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1       11.11 no rank              Staphylococcus haemolyticus JCSC1435    
+1          1       11.11 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1       11.11 no rank              Streptomyces collinus Tu 365            
+2          2        0.62 species              Staphylococcus epidermidis              
+1          0        0.31 species              Agrobacterium vitis                     
+1          0        0.31 species              Lysinibacillus sphaericus               
+1          0        0.31 species              Spirochaeta smaragdinae                 
+1          1        0.31 species              Staphylococcus argenteus                
+1          0        0.31 species              Staphylococcus haemolyticus             
+1          1        0.31 species              Staphylococcus pseudintermedius         
+1          0        0.31 species              Staphylococcus saprophyticus            
+1          0        0.31 species              Streptomyces collinus                   
+1          0        0.10 genus                Agrobacterium                           
+1          0        0.10 genus                Lysinibacillus                          
+1          0        0.10 genus                Spirochaeta                             
+1          1        0.10 genus                Streptococcus                           
+1          0        0.10 genus                Streptomyces                            
+1          0        0.10 family               Bacillaceae                             
+1          0        0.10 family               Rhizobiaceae                            
+1          0        0.10 family               Spirochaetaceae                         
+1          0        0.10 family               Streptococcaceae                        
+1          0        0.10 family               Streptomycetaceae                       

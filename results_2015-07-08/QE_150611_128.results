@@ -1,0 +1,68 @@
+Results at rank 'species' for file 4.blast8/QE_150611_128.blast8
+----------------------------------------------------------------------
+     %  #         TAXID       TAXNAME
+ 98.61  1415      1280        Staphylococcus aureus         
+  0.14  2         287         Pseudomonas aeruginosa        
+  0.14  2         1421        Lysinibacillus sphaericus     
+  0.14  2         29385       Staphylococcus saprophyticus  
+  0.07  1         55206       Spirochaeta smaragdinae       
+  0.07  1         252307      Robiginitalea biformata       
+  0.07  1         42684       Streptomyces collinus         
+  0.07  1         876         Desulfovibrio desulfuricans   
+  0.07  1         28068       Rubrivivax gelatinosus        
+  0.07  1         158899      Collimonas fungivorans        
+ Total: 1435
+----------------------------------------------------------------------
+Annotated regions hit by discriminative fragments:
+geneID    #     Symbol             Species                                       Description
+5330956   47    NWMN_1631          Staphylococcus aureus subsp. aureus str. Newman hypothetical protein
+11869724  47    SAVC_07900         Staphylococcus aureus subsp. aureus VC40      hypothetical protein
+3920532   47    SAOUHSC_01854      Staphylococcus aureus subsp. aureus NCTC 8325 hypothetical protein
+3236013   47    SACOL1788          Staphylococcus aureus subsp. aureus COL       hypothetical protein
+12424531  37    MS7_1744           Staphylococcus aureus subsp. aureus 11819-97  hypothetical protein
+14815371  36    SAI6T6_1012730     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+14835473  36    SAI2T2_1012770     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+14813374  36    SAI4T8_1012760     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+14809297  36    SAI1T1_2012750     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+14837470  36    SAI5S5_1012720     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+14839504  36    SAI8T7_1012760     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+14811335  36    SAI3T3_1012750     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+14817406  36    SAI7S6_1012770     Staphylococcus aureus subsp. aureus ST228     hypothetical protein
+1124405   36    SA1559             Staphylococcus aureus subsp. aureus N315      hypothetical protein, similar to smooth muscle caldesmon
+1121713   36    SAV1738            Staphylococcus aureus subsp. aureus Mu50      hypothetical protein
+5560494   36    SAHV_1724          Staphylococcus aureus subsp. aureus Mu3       hypothetical protein
+5168063   36    SaurJH9_1793       Staphylococcus aureus subsp. aureus JH9       hypothetical protein
+5316818   36    SaurJH1_1828       Staphylococcus aureus subsp. aureus JH1       hypothetical protein
+8614486   36    SAAV_1748          Staphylococcus aureus subsp. aureus ED98      hypothetical protein
+12335234  36    ECTR2_1578         Staphylococcus aureus subsp. aureus ECT-R 2   smooth muscle caldesmon
+12864520  36    SA2981_1696        Staphylococcus aureus 04-02981                hypothetical protein
+17369731  35    SAZ172_1752        Staphylococcus aureus subsp. aureus Z172      Maebl
+5775563   35    USA300HOU_1728     Staphylococcus aureus subsp. aureus USA300_TCH1516 hypothetical protein
+12862894  35    SATW20_17280       Staphylococcus aureus subsp. aureus TW20      hypothetical protein
+12337753  35    SAT0131_01846      Staphylococcus aureus subsp. aureus T0131     hypothetical protein
+16743626  35    SAKOR_01679        Staphylococcus aureus subsp. aureus CN1       hypothetical protein
+15300017  35    BN843_17410        Staphylococcus aureus M1                      Maebl
+16041811  35    SABB_01863         Staphylococcus aureus Bmb9393                 hypothetical protein
+16737078  29    RSAU_001594        Staphylococcus aureus subsp. aureus 6850      YtxH-like protein
+11931696  27    SAMSHR1132_15880   Staphylococcus aureus subsp. aureus MSHR1132  hypothetical protein
+5331895   26    fadB               Staphylococcus aureus subsp. aureus str. Newman 3-hydroxyacyl-CoA dehydrogenase FadB-like protein
+12329409  26    SAA6008_01709      Staphylococcus aureus subsp. aureus str. JKD6008 hypothetical protein
+11868311  26    SAVC_00900         Staphylococcus aureus subsp. aureus VC40      3-hydroxyacyl-CoA dehydrogenase
+5775782   26    USA300HOU_0241     Staphylococcus aureus subsp. aureus USA300_TCH1516 3-hydroxyacyl-CoA dehydrogenase
+3914735   26    SAUSA300_0226      Staphylococcus aureus subsp. aureus USA300_FPR3757 3-hydroxyacyl-CoA dehydrogenase
+3913798   26    SAUSA300_1684      Staphylococcus aureus subsp. aureus USA300_FPR3757 hypothetical protein
+3920352   26    SAOUHSC_00196      Staphylococcus aureus subsp. aureus NCTC 8325 hypothetical protein
+3236819   26    SACOL0212          Staphylococcus aureus subsp. aureus COL       3-hydroxyacyl-CoA dehydrogenase
+12730843  26    ST398NM01_1791     Staphylococcus aureus subsp. aureus 71193     hypothetical protein
+12423008  26    MS7_0218           Staphylococcus aureus subsp. aureus 11819-97  enoyl-CoA hydratase/isomerase family protein
+15300582  26    BN843_2300         Staphylococcus aureus M1                      Enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase
+13637413  26    C248_1783          Staphylococcus aureus 08BA02176               hypothetical protein
+1003793   25    MW1681             Staphylococcus aureus subsp. aureus MW2       hypothetical protein
+12800406  24    SAEMRSA15_16460    Staphylococcus aureus subsp. aureus HO 5096 0412 hypothetical protein
+5331516   22    NWMN_2454          Staphylococcus aureus subsp. aureus str. Newman 1-pyrroline-5-carboxylate dehydrogenase
+12329739  22    rocA               Staphylococcus aureus subsp. aureus str. JKD6008 1-pyrroline-5-carboxylate dehydrogenase
+17370687  22    SAZ172_2654        Staphylococcus aureus subsp. aureus Z172      Delta-1-pyrroline-5-carboxylate dehydrogenase
+11870524  22    SAVC_11650         Staphylococcus aureus subsp. aureus VC40      1-pyrroline-5-carboxylate dehydrogenase
+5774925   22    USA300HOU_2549     Staphylococcus aureus subsp. aureus USA300_TCH1516 1-pyrroline-5-carboxylate dehydrogenase
+3914029   22    SAUSA300_2491      Staphylococcus aureus subsp. aureus USA300_FPR3757 1-pyrroline-5-carboxylate dehydrogenase
+Printed 50 out of 23275 hit annotated regions.
