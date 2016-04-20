@@ -1,0 +1,178 @@
+Results at rank 'species' for file 4.blast8/QE_150611_149.blast8
+----------------------------------------------------------------------
+     %  #         TAXID       TAXNAME
+ 40.00  8         658062      Candidatus Koribacter versatilis
+ 35.00  7         562         Escherichia coli              
+ 20.00  4         2111        Mycoplasma arthritidis        
+  5.00  1         79967       Erwinia pyrifoliae            
+ Total: 20
+----------------------------------------------------------------------
+Discriminative fragment        Assignment
+11002.1.1:3.5e-06_17           Erwinia pyrifoliae
+9478.1.1:8.7e-05_16            Candidatus Koribacter versatilis
+9296.1.1:3.8e-05_13            Mycoplasma arthritidis
+9445.1.1:1.2e-03_16            Candidatus Koribacter versatilis
+9450.1.1:1.2e-03_16            Candidatus Koribacter versatilis
+11445.1.1:1.4e-05_18           Escherichia coli
+9513.1.1:1.2e-03_16            Candidatus Koribacter versatilis
+9380.1.1:5.3e-04_16            Candidatus Koribacter versatilis
+9949.1.1:6.1e-08_16            Escherichia coli
+9549.1.1:1.4e-03_16            Candidatus Koribacter versatilis
+9416.1.1:2.8e-05_16            Candidatus Koribacter versatilis
+9160.1.1:1.2e-03_15            Escherichia coli
+9262.1.1:7.1e-05_13            Mycoplasma arthritidis
+9330.1.1:4.6e-03_13            Mycoplasma arthritidis
+8332.1.1:3.3e-02_18            Escherichia coli
+9983.1.1:1.8e-05_16            Escherichia coli
+9933.1.1:3.0e-06_14            Escherichia coli
+9583.1.1:3.9e-03_16            Candidatus Koribacter versatilis
+10709.1.1:6.0e-03_10           Escherichia coli
+9227.1.1:1.6e-04_13            Mycoplasma arthritidis
+----------------------------------------------------------------------
+Annotated regions hit by discriminative fragments:
+geneID    #     Symbol             Assignment                                    Description
+4071958   8     Acid345_3051       Candidatus Koribacter versatilis Ellin345     glycogen/starch/alpha-glucan phosphorylase
+12931179  5     aldA               Escherichia coli str. K-12 substr. W3110      aldehyde dehydrogenase A, NAD-linked
+945672    5     aldA               Escherichia coli str. K-12 substr. MG1655     aldehyde dehydrogenase A, NAD-linked
+14968870  5     aldA               Escherichia coli str. K-12 substr. MDS42      aldehyde dehydrogenase A, NAD-linked
+6058212   5     aldA               Escherichia coli str. K-12 substr. DH10B      aldehyde dehydrogenase A
+12669433  5     aldA               Escherichia coli str. 'clone D i2'            aldehyde dehydrogenase A
+12664384  5     aldA               Escherichia coli str. 'clone D i14'           aldehyde dehydrogenase A
+12947135  5     CDCO157_1865       Escherichia coli Xuzhou21                     aldehyde dehydrogenase A
+12753577  5     aldA               Escherichia coli W                            aldehyde dehydrogenase A
+12695303  5     aldA               Escherichia coli W                            aldehyde dehydrogenase A, NAD-linked
+12685093  5     UMNK88_1815        Escherichia coli UMNK88                       aldehyde dehydrogenase AldA
+7158604   5     aldA               Escherichia coli UMN026                       aldehyde dehydrogenase A
+12926593  5     ECSF_1343          Escherichia coli SE15                         aldehyde dehydrogenase
+6999869   5     ECSE_1498          Escherichia coli SE11                         aldehyde dehydrogenase A
+12754626  5     aldA               Escherichia coli P12b                         lactaldehyde dehydrogenase
+12875025  5     NRG857_07005       Escherichia coli O83:H1 str. NRG 857C         aldehyde dehydrogenase A
+12659266  5     ECO55CA74_08690    Escherichia coli O55:H7 str. RM12579          aldehyde dehydrogenase A
+8870737   5     aldA               Escherichia coli O55:H7 str. CB9615           aldehyde dehydrogenase A
+8216463   5     aldA               Escherichia coli O157:H7 str. TW14359         aldehyde dehydrogenase
+917220    5     ECs2021            Escherichia coli O157:H7 str. Sakai           aldehyde dehydrogenase
+960994    5     aldA               Escherichia coli O157:H7 str. EDL933          aldehyde dehydrogenase
+6966843   5     aldA               Escherichia coli O157:H7 str. EC4115          aldehyde dehydrogenase A
+5587726   5     aldA               Escherichia coli O139:H28 str. E24377A        aldehyde dehydrogenase
+7062974   5     aldA               Escherichia coli O127:H6 str. E2348/69        aldehyde dehydrogenase
+8488776   5     ECO111_1804        Escherichia coli O111:H- str. 11128           pseudo
+13702259  5     O3K_13420          Escherichia coli O104:H4 str. 2011C-3493      aldehyde dehydrogenase A
+13708860  5     O3O_12210          Escherichia coli O104:H4 str. 2009EL-2071     aldehyde dehydrogenase A
+13689132  5     O3M_13385          Escherichia coli O104:H4 str. 2009EL-2050     aldehyde dehydrogenase A
+8477511   5     aldA               Escherichia coli O103:H2 str. 12009           aldehyde dehydrogenase
+12679758  5     aldA               Escherichia coli NA114                        Aldehyde dehydrogenase A
+16979147  5     LY180_07370        Escherichia coli LY180                        aldehyde dehydrogenase
+7397060   5     aldA               Escherichia coli LF82                         aldehyde dehydrogenase A
+11777207  5     EKO11_2403         Escherichia coli KO11FL                       Aldehyde Dehydrogenase
+12763555  5     aldA               Escherichia coli KO11FL                       aldehyde dehydrogenase A
+17430417  5     P423_07965         Escherichia coli JJ1886                       aldehyde dehydrogenase
+7127374   5     aldA               Escherichia coli IAI1                         aldehyde dehydrogenase A
+5594722   5     aldA               Escherichia coli HS                           aldehyde dehydrogenase
+12879151  5     ETEC_1487          Escherichia coli ETEC H10407                  aldehyde dehydrogenase A
+7142025   5     aldA               Escherichia coli ED1a                         aldehyde dehydrogenase A
+12872831  5     aldA               Escherichia coli DH1                          aldehyde dehydrogenase A
+12705833  5     EcDH1_2230         Escherichia coli DH1                          aldehyde dehydrogenase
+1035648   5     aldA               Escherichia coli CFT073                       aldehyde dehydrogenase
+7952965   5     aldA               Escherichia coli BW2952                       aldehyde dehydrogenase A
+8181347   5     aldA               Escherichia coli BL21(DE3)                    aldehyde dehydrogenase A, NAD-linked
+8114857   5     aldA               Escherichia coli BL21(DE3)                    aldehyde dehydrogenase A, NAD-linked
+8178474   5     aldA               Escherichia coli B str. REL606                aldehyde dehydrogenase A
+6067691   5     EcolC_2243         Escherichia coli ATCC 8739                    aldehyde dehydrogenase A
+14482133  5     APECO78_10790      Escherichia coli APEC O78                     aldehyde dehydrogenase A
+12727015  5     aldA               Escherichia coli ABU 83972                    aldehyde dehydrogenase A
+7148385   5     aldA               Escherichia coli 55989                        aldehyde dehydrogenase
+12887123  5     aldA               Escherichia coli 042                          aldehyde dehydrogenase A
+8157331   5     ECBD_2225          Escherichia coli 'BL21-Gold(DE3)pLysS AG'     aldehyde dehydrogenase A
+6418408   4     eno                Mycoplasma arthritidis 158L3-1                phosphopyruvate hydratase
+3991866   4     aldA               Escherichia coli UTI89                        aldehyde dehydrogenase
+12700483  4     UM146_09930        Escherichia coli UM146                        aldehyde dehydrogenase A
+7129290   4     aldA               Escherichia coli S88                          aldehyde dehydrogenase A
+16991517  4     aldA               Escherichia coli PMV-1                        Lactaldehyde dehydrogenase
+8483313   4     aldA               Escherichia coli O26:H11 str. 11368           aldehyde dehydrogenase
+12690149  4     aldA               Escherichia coli IHE3034                      aldehyde dehydrogenase A
+4491658   4     aldA               Escherichia coli APEC O1                      aldehyde dehydrogenase A
+4190907   4     ECP_1420           Escherichia coli 536                          aldehyde dehydrogenase
+6144472   3     aldA               Escherichia coli SMS-3-5                      aldehyde dehydrogenase A
+12674419  3     aldA               Escherichia coli O7:K1 str. CE10              aldehyde dehydrogenase A, NAD-linked
+7153526   3     aldA               Escherichia coli IAI39                        pseudo
+12932299  1     rpsJ               Escherichia coli str. K-12 substr. W3110      30S ribosomal protein S10
+947816    1     rpsJ               Escherichia coli str. K-12 substr. MG1655     30S ribosomal subunit protein S10
+14968270  1     sucB               Escherichia coli str. K-12 substr. MDS42      dihydrolipoyltranssuccinase
+14968017  1     rpsJ               Escherichia coli str. K-12 substr. MDS42      30S ribosomal subunit protein S10
+6058272   1     rpsJ               Escherichia coli str. K-12 substr. DH10B      30S ribosomal protein S10
+6061328   1     sucB               Escherichia coli str. K-12 substr. DH10B      dihydrolipoamide succinyltransferase
+12671540  1     rpsJ               Escherichia coli str. 'clone D i2'            30S ribosomal protein S10
+12666491  1     rpsJ               Escherichia coli str. 'clone D i14'           30S ribosomal protein S10
+12947416  1     rpsJ               Escherichia coli Xuzhou21                     30S ribosomal protein S10
+12697342  1     rpsJ               Escherichia coli W                            30S ribosomal protein S10
+12750875  1     rpsJ               Escherichia coli W                            30S ribosomal protein S10
+3994698   1     rpsJ               Escherichia coli UTI89                        30S ribosomal protein S10
+12687341  1     rpsJ               Escherichia coli UMNK88                       ribosomal protein RpsJ
+12684053  1     sucB               Escherichia coli UMNK88                       oxoglutarate dehydrogenase, E2 component SucB
+7157727   1     rpsJ               Escherichia coli UMN026                       30S ribosomal protein S10
+12701807  1     rpsJ               Escherichia coli UM146                        30S ribosomal protein S10
+6144487   1     rpsJ               Escherichia coli SMS-3-5                      30S ribosomal protein S10
+6145713   1     sucB               Escherichia coli SMS-3-5                      dihydrolipoamide succinyltransferase
+12929574  1     ECSF_3146          Escherichia coli SE15                         30S ribosomal protein S10
+7001981   1     rpsJ               Escherichia coli SE11                         30S ribosomal protein S10
+7132765   1     rpsJ               Escherichia coli S88                          30S ribosomal protein S10
+16990856  1     rpsJ               Escherichia coli PMV-1                        30S ribosomal protein S10
+12756469  1     rpsJ               Escherichia coli P12b                         30S ribosomal protein S10
+12757582  1     sucB               Escherichia coli P12b                         Dihydrolipoyllysine-residue succinyltransferase
+12876095  1     rpsJ               Escherichia coli O83:H1 str. NRG 857C         30S ribosomal protein S10
+12676655  1     rpsJ               Escherichia coli O7:K1 str. CE10              30S ribosomal protein S10
+12673519  1     sucB               Escherichia coli O7:K1 str. CE10              dihydrolipoyltranssuccinase
+12661397  1     rpsJ               Escherichia coli O55:H7 str. RM12579          30S ribosomal protein S10
+12658387  1     ECO55CA74_04290    Escherichia coli O55:H7 str. RM12579          dihydrolipoamide succinyltransferase
+8873002   1     rpsJ               Escherichia coli O55:H7 str. CB9615           ribosomal protein S10
+8482413   1     rpsJ               Escherichia coli O26:H11 str. 11368           30S ribosomal protein S10
+8218858   1     rpsJ               Escherichia coli O157:H7 str. TW14359         30S ribosomal protein S10
+915961    1     rpsJ               Escherichia coli O157:H7 str. Sakai           30S ribosomal protein S10
+917484    1     ECs0752            Escherichia coli O157:H7 str. Sakai           dihydrolipoamide succinyltransferase
+958790    1     rpsJ               Escherichia coli O157:H7 str. EDL933          30S ribosomal protein S10
+6970081   1     rpsJ               Escherichia coli O157:H7 str. EC4115          30S ribosomal protein S10
+6970520   1     sucB               Escherichia coli O157:H7 str. EC4115          dihydrolipoamide succinyltransferase
+5586557   1     rpsJ               Escherichia coli O139:H28 str. E24377A        30S ribosomal protein S10
+7061832   1     rpsJ               Escherichia coli O127:H6 str. E2348/69        30S ribosomal protein S10
+8488131   1     sucB               Escherichia coli O111:H- str. 11128           dihydrolipoyltranssuccinase
+8487867   1     rpsJ               Escherichia coli O111:H- str. 11128           30S ribosomal protein S10
+13699143  1     rpsJ               Escherichia coli O104:H4 str. 2011C-3493      30S ribosomal protein S10
+13707943  1     rpsJ               Escherichia coli O104:H4 str. 2009EL-2071     30S ribosomal protein S10
+13691041  1     rpsJ               Escherichia coli O104:H4 str. 2009EL-2050     30S ribosomal protein S10
+8476602   1     rpsJ               Escherichia coli O103:H2 str. 12009           30S ribosomal protein S10
+12681648  1     rpsJ               Escherichia coli NA114                        30S ribosomal protein S10
+16981091  1     rpsJ               Escherichia coli LY180                        30S ribosomal protein S10
+7396836   1     rpsJ               Escherichia coli LF82                         30S ribosomal protein S10
+12761408  1     rpsJ               Escherichia coli KO11FL                       30S ribosomal protein S10
+11775423  1     EKO11_0410         Escherichia coli KO11FL                       30S ribosomal protein S10
+17429540  1     P423_03575         Escherichia coli JJ1886                       dihydrolipoamide succinyltransferase
+17432532  1     rpsJ               Escherichia coli JJ1886                       30S ribosomal protein S10
+12692305  1     rpsJ               Escherichia coli IHE3034                      30S ribosomal protein S10
+7152673   1     rpsJ               Escherichia coli IAI39                        30S ribosomal protein S10
+7128620   1     rpsJ               Escherichia coli IAI1                         30S ribosomal protein S10
+5592741   1     rpsJ               Escherichia coli HS                           30S ribosomal protein S10
+5594324   1     sucB               Escherichia coli HS                           dihydrolipoamide succinyltransferase
+12879939  1     ETEC_3573          Escherichia coli ETEC H10407                  30S ribosomal protein S10
+7141454   1     rpsJ               Escherichia coli ED1a                         30S ribosomal protein S10
+12703951  1     EcDH1_0392         Escherichia coli DH1                          30S ribosomal protein S10
+12706524  1     EcDH1_2909         Escherichia coli DH1                          2-oxoglutarate dehydrogenase, E2 subunit, dihydrolipoamide succinyltransferase
+12870861  1     rpsJ               Escherichia coli DH1                          30S ribosomal protein S10
+1039718   1     rpsJ               Escherichia coli CFT073                       30S ribosomal protein S10
+7952357   1     rpsJ               Escherichia coli BW2952                       30S ribosomal protein S10
+7952269   1     sucB               Escherichia coli BW2952                       dihydrolipoamide succinyltransferase
+8180385   1     rpsJ               Escherichia coli BL21(DE3)                    30S ribosomal protein S10
+8115169   1     sucB               Escherichia coli BL21(DE3)                    sucB, subunit of dihydrolipoyltranssuccinylase and 2-oxoglutarate dehydrogenase complex
+8113912   1     rpsJ               Escherichia coli BL21(DE3)                    30S ribosomal protein S10
+8177450   1     rpsJ               Escherichia coli B str. REL606                30S ribosomal protein S10
+6065524   1     EcolC_2929         Escherichia coli ATCC 8739                    dihydrolipoamide succinyltransferase
+6066873   1     rpsJ               Escherichia coli ATCC 8739                    30S ribosomal protein S10
+14484042  1     APECO78_20395      Escherichia coli APEC O78                     30S ribosomal protein S10
+4494799   1     rpsJ               Escherichia coli APEC O1                      30S ribosomal protein S10
+12729036  1     rpsJ               Escherichia coli ABU 83972                    30S ribosomal protein S10
+7147465   1     rpsJ               Escherichia coli 55989                        30S ribosomal protein S10
+4191487   1     rpsJ               Escherichia coli 536                          30S ribosomal protein S10
+12884111  1     rpsJ               Escherichia coli 042                          30S ribosomal protein S10
+8159420   1     rpsJ               Escherichia coli 'BL21-Gold(DE3)pLysS AG'     30S ribosomal protein S10
+8539936   1     tufA               Erwinia pyrifoliae Ep1/96                     elongation factor Tu
+12935872  1     tufA               Erwinia pyrifoliae DSM 12163                  protein chain elongation factor EF-Tu
+Printed 144 out of 144 hit annotated regions.
