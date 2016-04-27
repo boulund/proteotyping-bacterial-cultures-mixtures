@@ -1,0 +1,68 @@
+Results at rank 'species' for file 4.blast8/QE_150611_137.blast8
+----------------------------------------------------------------------
+     %  #         TAXID       TAXNAME
+ 99.00  1481      1280        Staphylococcus aureus         
+  0.13  2         42422       Halobacteroides halobius      
+  0.13  2         29385       Staphylococcus saprophyticus  
+  0.07  1         154         Spirochaeta thermophila       
+  0.07  1         135487      Nocardia cyriacigeorgica      
+  0.07  1         876         Desulfovibrio desulfuricans   
+  0.07  1         179636      Alicycliphilus denitrificans  
+  0.07  1         1217908     Octadecabacter antarcticus    
+  0.07  1         287         Pseudomonas aeruginosa        
+  0.07  1         45972       Staphylococcus pasteuri       
+ Total: 1496
+----------------------------------------------------------------------
+Annotated regions hit by discriminative fragments:
+geneID    #     Symbol             Species                                       Description
+5330956   34    NWMN_1631          Staphylococcus aureus subsp. aureus str. Newman hypothetical protein
+11869724  34    SAVC_07900         Staphylococcus aureus subsp. aureus VC40      hypothetical protein
+3920532   34    SAOUHSC_01854      Staphylococcus aureus subsp. aureus NCTC 8325 hypothetical protein
+3236013   34    SACOL1788          Staphylococcus aureus subsp. aureus COL       hypothetical protein
+5331895   30    fadB               Staphylococcus aureus subsp. aureus str. Newman 3-hydroxyacyl-CoA dehydrogenase FadB-like protein
+11868311  30    SAVC_00900         Staphylococcus aureus subsp. aureus VC40      3-hydroxyacyl-CoA dehydrogenase
+5775782   30    USA300HOU_0241     Staphylococcus aureus subsp. aureus USA300_TCH1516 3-hydroxyacyl-CoA dehydrogenase
+3914735   30    SAUSA300_0226      Staphylococcus aureus subsp. aureus USA300_FPR3757 3-hydroxyacyl-CoA dehydrogenase
+3920352   30    SAOUHSC_00196      Staphylococcus aureus subsp. aureus NCTC 8325 hypothetical protein
+3236819   30    SACOL0212          Staphylococcus aureus subsp. aureus COL       3-hydroxyacyl-CoA dehydrogenase
+12423008  30    MS7_0218           Staphylococcus aureus subsp. aureus 11819-97  enoyl-CoA hydratase/isomerase family protein
+15300582  30    BN843_2300         Staphylococcus aureus M1                      Enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase
+12424531  26    MS7_1744           Staphylococcus aureus subsp. aureus 11819-97  hypothetical protein
+5331300   25    rpsI               Staphylococcus aureus subsp. aureus str. Newman 30S ribosomal protein S9
+12331620  25    rpsI               Staphylococcus aureus subsp. aureus str. JKD6008 30S ribosomal protein S9
+17369731  25    SAZ172_1752        Staphylococcus aureus subsp. aureus Z172      Maebl
+17370349  25    rpsI               Staphylococcus aureus subsp. aureus Z172      SSU ribosomal protein S9p (S16e)
+11870192  25    rpsI               Staphylococcus aureus subsp. aureus VC40      30S ribosomal protein S9
+5775563   25    USA300HOU_1728     Staphylococcus aureus subsp. aureus USA300_TCH1516 hypothetical protein
+5775414   25    rpsI               Staphylococcus aureus subsp. aureus USA300_TCH1516 30S ribosomal protein S9
+3913018   25    rpsI               Staphylococcus aureus subsp. aureus USA300_FPR3757 30S ribosomal protein S9
+12861257  25    rpsI               Staphylococcus aureus subsp. aureus TW20      30S ribosomal protein S9
+12862894  25    SATW20_17280       Staphylococcus aureus subsp. aureus TW20      hypothetical protein
+12332640  25    rpsI               Staphylococcus aureus subsp. aureus TCH60     30S ribosomal protein S9
+12338300  25    SAT0131_02389      Staphylococcus aureus subsp. aureus T0131     30S ribosomal protein S9
+12337753  25    SAT0131_01846      Staphylococcus aureus subsp. aureus T0131     hypothetical protein
+12322303  25    rpsI               Staphylococcus aureus subsp. aureus ST398     ribosomal protein S9
+17054741  25    rpsI               Staphylococcus aureus subsp. aureus SA957     30S ribosomal protein S9
+17057292  25    rpsI               Staphylococcus aureus subsp. aureus SA40      30S ribosomal protein S9
+3920855   25    rpsI               Staphylococcus aureus subsp. aureus NCTC 8325 30S ribosomal protein S9
+1124935   25    rpsI               Staphylococcus aureus subsp. aureus N315      30S ribosomal protein S9
+1122242   25    rpsI               Staphylococcus aureus subsp. aureus Mu50      30S ribosomal protein S9
+5559060   25    rpsI               Staphylococcus aureus subsp. aureus Mu3       30S ribosomal protein S9
+1004254   25    rpsI               Staphylococcus aureus subsp. aureus MW2       30S ribosomal protein S9
+2862183   25    rpsI               Staphylococcus aureus subsp. aureus MSSA476   30S ribosomal protein S9
+11932038  25    SAMSHR1132_20430   Staphylococcus aureus subsp. aureus MSHR1132  30S ribosomal protein S9
+2860180   25    rpsI               Staphylococcus aureus subsp. aureus MRSA252   30S ribosomal protein S9
+11863528  25    M013TW_2177        Staphylococcus aureus subsp. aureus M013      30S ribosomal protein S9
+12909136  25    rpsI               Staphylococcus aureus subsp. aureus LGA251    30S ribosomal protein S9
+12326846  25    rpsI               Staphylococcus aureus subsp. aureus JKD6159   30S ribosomal protein S9
+5169076   25    rpsI               Staphylococcus aureus subsp. aureus JH9       30S ribosomal protein S9
+5317170   25    rpsI               Staphylococcus aureus subsp. aureus JH1       30S ribosomal protein S9
+12801249  25    rpsI               Staphylococcus aureus subsp. aureus HO 5096 0412 30S ribosomal protein S9
+8615016   25    rpsI               Staphylococcus aureus subsp. aureus ED98      30S ribosomal protein S9
+12325627  25    SAOV_2255c         Staphylococcus aureus subsp. aureus ED133     30S ribosomal protein S9
+12336668  25    ECTR2_2079         Staphylococcus aureus subsp. aureus ECT-R 2   30S ribosomal protein S9 (BS10)
+3237881   25    rpsI               Staphylococcus aureus subsp. aureus COL       30S ribosomal protein S9
+16744172  25    SAKOR_02179        Staphylococcus aureus subsp. aureus CN1       SSU ribosomal protein S9P
+16743626  25    SAKOR_01679        Staphylococcus aureus subsp. aureus CN1       hypothetical protein
+12731394  25    ST398NM01_2270     Staphylococcus aureus subsp. aureus 71193     30S ribosomal protein S9
+Printed 50 out of 23345 hit annotated regions.
