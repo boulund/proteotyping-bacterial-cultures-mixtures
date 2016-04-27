@@ -1,0 +1,63 @@
+-------5.results/QE_150611_161/QE_150611_161.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+171        7      100.00 species group        Pseudomonas aeruginosa group            
+164        162     55.78 species              Pseudomonas aeruginosa                  
+3          0       50.00 subspecies           Selenomonas ruminantium subsp. lactilytica
+2          0       33.33 subspecies           Syntrophomonas wolfei subsp. wolfei     
+235        198     32.64 genus                Streptococcus                           
+232        61      32.22 genus                Pseudomonas                             
+261        29      28.59 family               Pseudomonadaceae                        
+248        13      27.16 family               Streptococcaceae                        
+188        135     26.11 genus                Staphylococcus                          
+3          3       23.08 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+197        9       21.58 family               Staphylococcaceae                       
+194        141     21.25 family               Enterobacteriaceae                      
+51         51      17.35 species              Staphylococcus aureus                   
+1          1       16.67 subspecies           Leuconostoc mesenteroides subsp. mesenteroides
+2          2       15.38 no rank              Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+37         37      12.59 species              Streptococcus pneumoniae                
+26         26       8.84 species              Escherichia coli                        
+1          0        7.69 no rank              Buchnera aphidicola (Baizongia pistaciae)
+1          1        7.69 no rank              Buchnera aphidicola str. Bp (Baizongia pistaciae)
+1          1        7.69 no rank              Dehalogenimonas lykanthroporepellens BL-DC-9
+1          1        7.69 no rank              Oceanobacillus iheyensis HTE831         
+1          1        7.69 no rank              Pseudomonas aeruginosa B136-33          
+1          1        7.69 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        7.69 no rank              Shimwellia blattae DSM 4481 = NBRC 105725
+1          1        7.69 no rank              Thioflavicoccus mobilis 8321            
+50         24       6.94 genus                Escherichia                             
+3          0        1.02 species              Selenomonas ruminantium                 
+2          0        0.68 species              Syntrophomonas wolfei                   
+3          0        0.42 genus                Selenomonas                             
+1          1        0.34 species              Amycolatopsis mediterranei              
+1          0        0.34 species              Buchnera aphidicola                     
+1          0        0.34 species              Dehalogenimonas lykanthroporepellens    
+1          0        0.34 species              Leuconostoc mesenteroides               
+1          0        0.34 species              Oceanobacillus iheyensis                
+1          1        0.34 species              Paenibacillus sp. JDR-2                 
+1          1        0.34 species              Pantoea ananatis                        
+1          0        0.34 species              Shimwellia blattae                      
+1          1        0.34 species              Staphylococcus argenteus                
+1          1        0.34 species              Staphylococcus epidermidis              
+1          0        0.34 species              Thioflavicoccus mobilis                 
+3          0        0.33 family               Veillonellaceae                         
+2          0        0.28 genus                Syntrophomonas                          
+2          2        0.22 family               Aquificaceae                            
+2          0        0.22 family               Syntrophomonadaceae                     
+1          0        0.14 genus                Amycolatopsis                           
+1          0        0.14 genus                Buchnera                                
+1          0        0.14 genus                Dehalogenimonas                         
+1          0        0.14 genus                Leuconostoc                             
+1          0        0.14 genus                Oceanobacillus                          
+1          0        0.14 genus                Paenibacillus                           
+1          0        0.14 genus                Pantoea                                 
+1          1        0.14 genus                Shewanella                              
+1          0        0.14 genus                Shimwellia                              
+1          0        0.14 genus                Thioflavicoccus                         
+1          0        0.11 family               Bacillaceae                             
+1          0        0.11 family               Chromatiaceae                           
+1          0        0.11 family               Leuconostocaceae                        
+1          0        0.11 family               Paenibacillaceae                        
+1          0        0.11 family               Pseudonocardiaceae                      
+1          0        0.11 family               Shewanellaceae                          
