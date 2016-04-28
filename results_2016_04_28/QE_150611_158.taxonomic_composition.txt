@@ -1,0 +1,88 @@
+-----------4.blast8/QE_150611_158.blast8.sqlite3------------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2          0      100.00 species subgroup     Pseudomonas syringae group genomosp. 1  
+1          0      100.00 subspecies           Propionibacterium freudenreichii subsp. shermanii
+1764       89      99.55 species group        Pseudomonas aeruginosa group            
+2438       665     99.23 genus                Pseudomonas                             
+2687       249     99.19 family               Pseudomonadaceae                        
+1674       1665    98.59 species              Pseudomonas aeruginosa                  
+4          4       11.43 no rank              Pseudomonas aeruginosa B136-33          
+4          4       11.43 no rank              Pseudomonas putida W619                 
+2          2        5.71 no rank              Pseudomonas aeruginosa PA7              
+2          2        5.71 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+2          2        5.71 no rank              Pseudomonas denitrificans ATCC 13867    
+2          0        5.71 no rank              Pseudomonas syringae pv. syringae       
+2          2        5.71 no rank              Pseudomonas syringae pv. syringae B728a 
+1          0        2.86 no rank              Clostridium botulinum E                 
+1          1        2.86 no rank              Clostridium botulinum E3 str. Alaska E43
+1          1        2.86 no rank              Methylomicrobium alcaliphilum 20Z       
+1          1        2.86 no rank              Nautilia profundicola AmH               
+1          1        2.86 no rank              Octadecabacter antarcticus 307          
+1          1        2.86 no rank              Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1
+1          1        2.86 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        2.86 no rank              Pseudomonas entomophila L48             
+1          1        2.86 no rank              Pseudomonas resinovorans NBRC 106553    
+1          1        2.86 no rank              Rhizobium tropici CIAT 899              
+1          0        2.86 no rank              Rhizobium/Agrobacterium group           
+1          1        2.86 no rank              Syntrophobotulus glycolicus DSM 8271    
+1          1        2.86 no rank              Syntrophus aciditrophicus SB            
+1          1        2.86 no rank              Thioflavicoccus mobilis 8321            
+1          0        2.86 no rank              unclassified Betaproteobacteria         
+1          0        2.86 no rank              whitefly endosymbionts                  
+1          0        2.86 no rank              Zymobacter group                        
+4          0        0.24 species              Pseudomonas putida                      
+4          0        0.23 species group        Pseudomonas putida group                
+2          0        0.12 species              Pseudomonas denitrificans               
+2          0        0.12 species              Pseudomonas syringae                    
+2          2        0.12 species              Pusillimonas sp. T7-7                   
+2          0        0.11 species group        Pseudomonas pertucinogena group         
+2          0        0.11 species group        Pseudomonas syringae group              
+3          2        0.11 family               Rhodobacteraceae                        
+2          1        0.08 genus                Propionibacterium                       
+2          0        0.08 genus                Pusillimonas                            
+2          0        0.07 family               Alcaligenaceae                          
+2          0        0.07 family               Chromatiaceae                           
+2          0        0.07 family               Propionibacteriaceae                    
+1          1        0.06 species              Alicycliphilus denitrificans            
+1          1        0.06 species              Candidatus Portiera aleyrodidarum       
+1          0        0.06 species              Clostridium botulinum                   
+1          0        0.06 species              Methylomicrobium alcaliphilum           
+1          1        0.06 species              Mycoplasma gallisepticum                
+1          0        0.06 species              Nautilia profundicola                   
+1          0        0.06 species              Octadecabacter antarcticus              
+1          0        0.06 species              Propionibacterium freudenreichii        
+1          0        0.06 species              Pseudomonas entomophila                 
+1          0        0.06 species              Pseudomonas resinovorans                
+1          0        0.06 species              Rhizobium tropici                       
+1          0        0.06 species              Syntrophobotulus glycolicus             
+1          0        0.06 species              Syntrophus aciditrophicus               
+1          0        0.06 species              Thioflavicoccus mobilis                 
+1          0        0.04 genus                Alicycliphilus                          
+1          1        0.04 genus                Alteromonas                             
+1          0        0.04 genus                Candidatus Portiera                     
+1          0        0.04 genus                Clostridium                             
+1          1        0.04 genus                Corynebacterium                         
+1          1        0.04 genus                Kinetoplastibacterium                   
+1          0        0.04 genus                Methylomicrobium                        
+1          0        0.04 genus                Mycoplasma                              
+1          0        0.04 genus                Nautilia                                
+1          1        0.04 genus                Nitrosococcus                           
+1          0        0.04 genus                Octadecabacter                          
+1          0        0.04 genus                Rhizobium                               
+1          0        0.04 genus                Syntrophobotulus                        
+1          0        0.04 genus                Syntrophus                              
+1          0        0.04 genus                Thioflavicoccus                         
+1          0        0.04 family               Alteromonadaceae                        
+1          1        0.04 family               Aquificaceae                            
+1          0        0.04 family               Clostridiaceae                          
+1          0        0.04 family               Comamonadaceae                          
+1          0        0.04 family               Corynebacteriaceae                      
+1          1        0.04 family               Enterobacteriaceae                      
+1          0        0.04 family               Halomonadaceae                          
+1          0        0.04 family               Methylococcaceae                        
+1          0        0.04 family               Mycoplasmataceae                        
+1          0        0.04 family               Nautiliaceae                            
+1          0        0.04 family               Peptococcaceae                          
+1          0        0.04 family               Rhizobiaceae                            
+1          0        0.04 family               Syntrophaceae                           

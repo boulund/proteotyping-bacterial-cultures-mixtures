@@ -1,0 +1,92 @@
+-----------4.blast8/QE_150611_169.blast8.sqlite3------------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 species subgroup     Pseudomonas stutzeri subgroup           
+393        15      98.99 species group        Pseudomonas aeruginosa group            
+378        373     55.34 species              Pseudomonas aeruginosa                  
+2          0       33.33 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+570        175     31.46 genus                Pseudomonas                             
+562        419     31.02 genus                Staphylococcus                          
+546        462     30.13 genus                Streptococcus                           
+634        64      27.54 family               Pseudomonadaceae                        
+587        25      25.50 family               Staphylococcaceae                       
+580        34      25.20 family               Streptococcaceae                        
+490        366     21.29 family               Enterobacteriaceae                      
+139        138     20.35 species              Staphylococcus aureus                   
+1          1       16.67 subspecies           Staphylococcus aureus subsp. aureus     
+1          0       16.67 subspecies           Staphylococcus carnosus subsp. carnosus 
+1          1       16.67 subspecies           Streptococcus dysgalactiae subsp. equisimilis
+1          0       16.67 subspecies           Syntrophomonas wolfei subsp. wolfei     
+82         79      12.01 species              Streptococcus pneumoniae                
+3          3       12.00 no rank              Streptococcus pneumoniae P1031          
+63         62       9.22 species              Escherichia coli                        
+2          2        8.00 no rank              Pseudomonas aeruginosa B136-33          
+2          2        8.00 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+118        54       6.51 genus                Escherichia                             
+1          0        4.00 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        4.00 no rank              aphid secondary symbionts               
+1          0        4.00 no rank              Bacteroidetes/Chlorobi group            
+1          1        4.00 no rank              Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)
+1          1        4.00 no rank              Cyanobacterium stanieri PCC 7202        
+1          1        4.00 no rank              Escherichia coli K-12                   
+1          1        4.00 no rank              Escherichia fergusonii ATCC 35469       
+1          1        4.00 no rank              Kangiella koreensis DSM 16069           
+1          1        4.00 no rank              Pseudomonas aeruginosa PA7              
+1          1        4.00 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        4.00 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        4.00 no rank              Pseudomonas poae RE*1-1-14              
+1          1        4.00 no rank              Staphylococcus carnosus subsp. carnosus TM300
+1          1        4.00 no rank              Streptococcus oralis Uo5                
+1          1        4.00 no rank              Syntrophobotulus glycolicus DSM 8271    
+1          1        4.00 no rank              Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+1          0        4.00 no rank              unclassified Enterobacteriaceae         
+1          1        4.00 no rank              Veillonella parvula DSM 2008            
+2          2        0.29 species              Erwinia pyrifoliae                      
+2          0        0.29 species              Staphylococcus saprophyticus            
+1          1        0.25 species group        Enterobacter cloacae complex            
+1          0        0.25 species group        Pseudomonas fluorescens group           
+1          0        0.25 species group        Pseudomonas stutzeri group              
+1          0        0.25 species group        Streptococcus dysgalactiae group        
+1          0        0.15 species              Candidatus Hamiltonella defensa         
+1          0        0.15 species              Cyanobacterium stanieri                 
+1          0        0.15 species              Escherichia fergusonii                  
+1          0        0.15 species              Kangiella koreensis                     
+1          1        0.15 species              Lactobacillus reuteri                   
+1          1        0.15 species              Legionella pneumophila                  
+1          1        0.15 species              Paenibacillus sp. JDR-2                 
+1          0        0.15 species              Pseudomonas poae                        
+1          1        0.15 species              Pseudomonas stutzeri                    
+1          1        0.15 species              Pusillimonas sp. T7-7                   
+1          1        0.15 species              Staphylococcus argenteus                
+1          0        0.15 species              Staphylococcus carnosus                 
+1          0        0.15 species              Streptococcus dysgalactiae              
+1          0        0.15 species              Streptococcus oralis                    
+1          0        0.15 species              Syntrophobotulus glycolicus             
+1          0        0.15 species              Syntrophomonas wolfei                   
+1          0        0.15 species              Veillonella parvula                     
+2          0        0.11 genus                Erwinia                                 
+1          1        0.06 genus                Acinetobacter                           
+1          0        0.06 genus                Candidatus Hamiltonella                 
+1          0        0.06 genus                Cyanobacterium                          
+1          1        0.06 genus                Dickeya                                 
+1          1        0.06 genus                Edwardsiella                            
+1          0        0.06 genus                Enterobacter                            
+1          0        0.06 genus                Kangiella                               
+1          0        0.06 genus                Lactobacillus                           
+1          0        0.06 genus                Legionella                              
+1          0        0.06 genus                Paenibacillus                           
+1          0        0.06 genus                Pusillimonas                            
+1          0        0.06 genus                Syntrophobotulus                        
+1          0        0.06 genus                Syntrophomonas                          
+1          0        0.06 genus                Veillonella                             
+1          0        0.04 family               Alcaligenaceae                          
+1          0        0.04 family               Alcanivoracaceae                        
+1          0        0.04 family               Lactobacillaceae                        
+1          0        0.04 family               Legionellaceae                          
+1          0        0.04 family               Moraxellaceae                           
+1          0        0.04 family               Paenibacillaceae                        
+1          1        0.04 family               Pasteurellaceae                         
+1          0        0.04 family               Peptococcaceae                          
+1          1        0.04 family               Rhodobacteraceae                        
+1          0        0.04 family               Syntrophomonadaceae                     
+1          0        0.04 family               Veillonellaceae                         

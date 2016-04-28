@@ -1,0 +1,98 @@
+------------4.blast8/QE_150508_35.blast8.sqlite3------------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+3          2      100.00 species group        Streptococcus anginosus group           
+2628       2219    98.72 genus                Streptococcus                           
+2757       128     97.97 family               Streptococcaceae                        
+398        392     91.71 species              Streptococcus pneumoniae                
+2          0       66.67 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1       33.33 subspecies           Streptococcus constellatus subsp. pharyngis
+6          0       12.24 no rank              Bacteroidetes/Chlorobi group            
+5          5       10.20 no rank              Streptococcus pneumoniae P1031          
+4          0        8.16 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+4          0        8.16 no rank              aphid secondary symbionts               
+4          4        8.16 no rank              Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)
+4          4        8.16 no rank              Herpetosiphon aurantiacus DSM 785       
+4          0        8.16 no rank              unclassified Enterobacteriaceae         
+2          2        4.08 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        2.04 no rank              [Eubacterium] eligens ATCC 27750        
+1          1        2.04 no rank              Burkholderia gladioli BSR3              
+1          1        2.04 no rank              Caldisericum exile AZM16c01             
+1          1        2.04 no rank              Desulfotomaculum acetoxidans DSM 771    
+1          1        2.04 no rank              Erwinia billingiae Eb661                
+1          1        2.04 no rank              Kangiella koreensis DSM 16069           
+1          1        2.04 no rank              Mahella australiensis 50-1 BON          
+1          1        2.04 no rank              Pleurocapsa sp. PCC 7327                
+1          1        2.04 no rank              Solibacillus silvestris StLB046         
+1          1        2.04 no rank              Spiroplasma chrysopicola DF-1           
+1          1        2.04 no rank              Streptococcus mitis B6                  
+1          1        2.04 no rank              Streptococcus oralis Uo5                
+1          1        2.04 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        2.04 no rank              Streptococcus uberis 0140J              
+1          1        2.04 no rank              Streptomyces rapamycinicus NRRL 5491    
+1          1        2.04 no rank              Thalassolituus oleivorans MIL-1         
+5          5        1.15 species              Streptococcus suis                      
+26         24       0.92 family               Staphylococcaceae                       
+4          0        0.92 species              Candidatus Hamiltonella defensa         
+4          0        0.92 species              Herpetosiphon aurantiacus               
+2          0        0.46 species              Staphylococcus saprophyticus            
+1          0        0.23 species              [Eubacterium] eligens                   
+1          0        0.23 species              Burkholderia gladioli                   
+1          0        0.23 species              Caldisericum exile                      
+1          0        0.23 species              Desulfotomaculum acetoxidans            
+1          0        0.23 species              Erwinia billingiae                      
+1          1        0.23 species              Hyphomicrobium sp. MC1                  
+1          0        0.23 species              Kangiella koreensis                     
+1          1        0.23 species              Lactobacillus brevis                    
+1          1        0.23 species              Lactobacillus plantarum                 
+1          1        0.23 species              Lactobacillus reuteri                   
+1          1        0.23 species              Lactococcus garvieae                    
+1          0        0.23 species              Mahella australiensis                   
+1          0        0.23 species              Pleurocapsa minor                       
+1          0        0.23 species              Solibacillus silvestris                 
+1          0        0.23 species              Spiroplasma chrysopicola                
+1          0        0.23 species              Streptococcus constellatus              
+1          0        0.23 species              Streptococcus mitis                     
+1          0        0.23 species              Streptococcus oralis                    
+1          0        0.23 species              Streptococcus uberis                    
+1          0        0.23 species              Streptomyces rapamycinicus              
+1          0        0.23 species              Thalassolituus oleivorans               
+5          0        0.18 family               Enterobacteriaceae                      
+4          0        0.15 genus                Candidatus Hamiltonella                 
+4          0        0.15 genus                Herpetosiphon                           
+4          1        0.15 genus                Lactobacillus                           
+4          0        0.14 family               Herpetosiphonaceae                      
+4          0        0.14 family               Lactobacillaceae                        
+2          2        0.08 genus                Carnobacterium                          
+2          0        0.08 genus                Staphylococcus                          
+2          1        0.08 genus                Streptomyces                            
+2          0        0.07 family               Burkholderiaceae                        
+2          0        0.07 family               Carnobacteriaceae                       
+2          0        0.07 family               Peptococcaceae                          
+2          0        0.07 family               Streptomycetaceae                       
+1          0        0.04 genus                Burkholderia                            
+1          0        0.04 genus                Caldisericum                            
+1          1        0.04 genus                Dehalobacter                            
+1          0        0.04 genus                Desulfotomaculum                        
+1          0        0.04 genus                Erwinia                                 
+1          0        0.04 genus                Eubacterium                             
+1          0        0.04 genus                Hyphomicrobium                          
+1          0        0.04 genus                Kangiella                               
+1          0        0.04 genus                Lactococcus                             
+1          0        0.04 genus                Mahella                                 
+1          1        0.04 genus                Pandoraea                               
+1          0        0.04 genus                Pleurocapsa                             
+1          0        0.04 genus                Solibacillus                            
+1          0        0.04 genus                Spiroplasma                             
+1          0        0.04 genus                Thalassolituus                          
+1          1        0.04 genus                Xanthomonas                             
+1          0        0.04 family               Alcanivoracaceae                        
+1          0        0.04 family               Caldisericaceae                         
+1          0        0.04 family               Eubacteriaceae                          
+1          1        0.04 family               Halomonadaceae                          
+1          0        0.04 family               Hyphomicrobiaceae                       
+1          0        0.04 family               Oceanospirillaceae                      
+1          0        0.04 family               Planococcaceae                          
+1          0        0.04 family               Spiroplasmataceae                       
+1          0        0.04 family               Thermoanaerobacterales Family IV. Incertae Sedis
+1          0        0.04 family               Xanthomonadaceae                        

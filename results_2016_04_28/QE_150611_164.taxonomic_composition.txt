@@ -1,0 +1,103 @@
+-----------4.blast8/QE_150611_164.blast8.sqlite3------------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 species subgroup     Pseudomonas stutzeri subgroup           
+424        21      99.53 species group        Pseudomonas aeruginosa group            
+3          1       75.00 subspecies           Staphylococcus aureus subsp. aureus     
+403        399     54.76 species              Pseudomonas aeruginosa                  
+613        187     31.55 genus                Pseudomonas                             
+607        518     31.24 genus                Streptococcus                           
+566        414     29.13 genus                Staphylococcus                          
+683        70      27.85 family               Pseudomonadaceae                        
+635        28      25.90 family               Streptococcaceae                        
+1          0       25.00 subspecies           Syntrophomonas wolfei subsp. wolfei     
+584        18      23.82 family               Staphylococcaceae                       
+532        391     21.70 family               Enterobacteriaceae                      
+150        147     20.38 species              Staphylococcus aureus                   
+84         81      11.41 species              Streptococcus pneumoniae                
+72         71       9.78 species              Escherichia coli                        
+3          3        9.68 no rank              Streptococcus pneumoniae P1031          
+136        64       7.00 genus                Escherichia                             
+2          2        6.45 no rank              Anaerolinea thermophila UNI-1           
+2          2        6.45 no rank              Staphylococcus aureus subsp. aureus str. Newman
+2          2        6.45 no rank              Streptococcus oralis Uo5                
+1          1        3.23 no rank              [Bacillus] selenitireducens MLS10       
+1          1        3.23 no rank              Alcanivorax dieselolei B5               
+1          0        3.23 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        3.23 no rank              aphid secondary symbionts               
+1          0        3.23 no rank              Bacteroidetes/Chlorobi group            
+1          1        3.23 no rank              Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)
+1          1        3.23 no rank              Cyanobacterium stanieri PCC 7202        
+1          1        3.23 no rank              Escherichia coli K-12                   
+1          1        3.23 no rank              Halomonas elongata DSM 2581             
+1          1        3.23 no rank              Herpetosiphon aurantiacus DSM 785       
+1          1        3.23 no rank              Pseudomonas aeruginosa B136-33          
+1          1        3.23 no rank              Pseudomonas aeruginosa PAO1             
+1          1        3.23 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        3.23 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        3.23 no rank              Pseudomonas denitrificans ATCC 13867    
+1          1        3.23 no rank              Saccharophagus degradans 2-40           
+1          1        3.23 no rank              Solibacillus silvestris StLB046         
+1          1        3.23 no rank              Syntrophobotulus glycolicus DSM 8271    
+1          1        3.23 no rank              Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+1          1        3.23 no rank              Thioalkalimicrobium cyclicum ALM1       
+1          0        3.23 no rank              unclassified Enterobacteriaceae         
+1          0        3.23 no rank              unclassified Sporolactobacillaceae      
+3          3        0.41 species              Streptococcus suis                      
+2          0        0.27 species              Anaerolinea thermophila                 
+2          2        0.27 species              Erwinia pyrifoliae                      
+2          0        0.27 species              Streptococcus oralis                    
+1          0        0.23 species group        Pseudomonas pertucinogena group         
+1          0        0.23 species group        Pseudomonas stutzeri group              
+1          0        0.14 species              [Bacillus] selenitireducens             
+1          0        0.14 species              Alcanivorax dieselolei                  
+1          0        0.14 species              Candidatus Hamiltonella defensa         
+1          0        0.14 species              Cyanobacterium stanieri                 
+1          0        0.14 species              Halomonas elongata                      
+1          0        0.14 species              Herpetosiphon aurantiacus               
+1          1        0.14 species              Lactobacillus reuteri                   
+1          1        0.14 species              Leptolyngbya sp. PCC 7376               
+1          1        0.14 species              Paenibacillus sp. Y412MC10              
+1          0        0.14 species              Pseudomonas denitrificans               
+1          1        0.14 species              Pseudomonas stutzeri                    
+1          0        0.14 species              Saccharophagus degradans                
+1          0        0.14 species              Solibacillus silvestris                 
+1          1        0.14 species              Staphylococcus argenteus                
+1          1        0.14 species              Staphylococcus pseudintermedius         
+1          0        0.14 species              Syntrophobotulus glycolicus             
+1          0        0.14 species              Syntrophomonas wolfei                   
+1          0        0.14 species              Thioalkalimicrobium cyclicum            
+2          0        0.10 genus                Anaerolinea                             
+2          0        0.10 genus                Erwinia                                 
+2          0        0.08 family               Anaerolineaceae                         
+2          2        0.08 family               Aquificaceae                            
+2          1        0.08 family               Halomonadaceae                          
+1          1        0.05 genus                Acidiphilium                            
+1          0        0.05 genus                Alcanivorax                             
+1          0        0.05 genus                Candidatus Hamiltonella                 
+1          0        0.05 genus                Cyanobacterium                          
+1          1        0.05 genus                Dickeya                                 
+1          0        0.05 genus                Halomonas                               
+1          0        0.05 genus                Herpetosiphon                           
+1          0        0.05 genus                Lactobacillus                           
+1          0        0.05 genus                Leptolyngbya                            
+1          0        0.05 genus                Paenibacillus                           
+1          0        0.05 genus                Saccharophagus                          
+1          1        0.05 genus                Shewanella                              
+1          0        0.05 genus                Solibacillus                            
+1          0        0.05 genus                Syntrophobotulus                        
+1          0        0.05 genus                Syntrophomonas                          
+1          0        0.05 genus                Thioalkalimicrobium                     
+1          1        0.05 genus                Yersinia                                
+1          0        0.04 family               Acetobacteraceae                        
+1          0        0.04 family               Alcanivoracaceae                        
+1          0        0.04 family               Cellvibrionaceae                        
+1          0        0.04 family               Herpetosiphonaceae                      
+1          0        0.04 family               Lactobacillaceae                        
+1          0        0.04 family               Paenibacillaceae                        
+1          0        0.04 family               Peptococcaceae                          
+1          0        0.04 family               Piscirickettsiaceae                     
+1          0        0.04 family               Planococcaceae                          
+1          0        0.04 family               Shewanellaceae                          
+1          0        0.04 family               Sporolactobacillaceae                   
+1          0        0.04 family               Syntrophomonadaceae                     

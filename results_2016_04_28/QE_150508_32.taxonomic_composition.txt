@@ -1,0 +1,71 @@
+------------4.blast8/QE_150508_32.blast8.sqlite3------------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+3          1      100.00 species group        Streptococcus anginosus group           
+2756       2304    99.32 genus                Streptococcus                           
+2885       129     98.43 family               Streptococcaceae                        
+437        429     93.78 species              Streptococcus pneumoniae                
+2          0       66.67 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1       33.33 subspecies           Streptococcus constellatus subsp. pharyngis
+6          6       20.00 no rank              Streptococcus pneumoniae P1031          
+4          0       13.33 no rank              Bacteroidetes/Chlorobi group            
+2          0        6.67 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+2          0        6.67 no rank              aphid secondary symbionts               
+2          2        6.67 no rank              Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)
+2          2        6.67 no rank              Herpetosiphon aurantiacus DSM 785       
+2          2        6.67 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+2          0        6.67 no rank              unclassified Enterobacteriaceae         
+1          1        3.33 no rank              [Eubacterium] eligens ATCC 27750        
+1          1        3.33 no rank              Caldisericum exile AZM16c01             
+1          1        3.33 no rank              Kangiella koreensis DSM 16069           
+1          1        3.33 no rank              Streptococcus oralis Uo5                
+1          1        3.33 no rank              Streptococcus pneumoniae 670-6B         
+1          1        3.33 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        3.33 no rank              Thermovibrio ammonificans HB-1          
+1          1        3.33 no rank              Zunongwangia profunda SM-A87            
+11         11       2.36 species              Streptococcus suis                      
+26         24       0.89 family               Staphylococcaceae                       
+2          0        0.43 species              Candidatus Hamiltonella defensa         
+2          0        0.43 species              Herpetosiphon aurantiacus               
+2          0        0.43 species              Staphylococcus saprophyticus            
+1          0        0.21 species              [Eubacterium] eligens                   
+1          0        0.21 species              Caldisericum exile                      
+1          1        0.21 species              Clostridium kluyveri                    
+1          1        0.21 species              Gardnerella vaginalis                   
+1          1        0.21 species              Hyphomicrobium sp. MC1                  
+1          0        0.21 species              Kangiella koreensis                     
+1          1        0.21 species              Lactobacillus reuteri                   
+1          1        0.21 species              Streptococcus anginosus                 
+1          0        0.21 species              Streptococcus constellatus              
+1          0        0.21 species              Streptococcus oralis                    
+1          0        0.21 species              Thermovibrio ammonificans               
+1          0        0.21 species              Zunongwangia profunda                   
+3          3        0.11 genus                Acidiphilium                            
+3          0        0.10 family               Acetobacteraceae                        
+2          0        0.07 genus                Candidatus Hamiltonella                 
+2          0        0.07 genus                Herpetosiphon                           
+2          0        0.07 genus                Staphylococcus                          
+2          0        0.07 family               Enterobacteriaceae                      
+2          2        0.07 family               Halomonadaceae                          
+2          0        0.07 family               Herpetosiphonaceae                      
+1          0        0.04 genus                Caldisericum                            
+1          0        0.04 genus                Clostridium                             
+1          1        0.04 genus                Enterococcus                            
+1          0        0.04 genus                Eubacterium                             
+1          0        0.04 genus                Gardnerella                             
+1          0        0.04 genus                Hyphomicrobium                          
+1          0        0.04 genus                Kangiella                               
+1          0        0.04 genus                Lactobacillus                           
+1          0        0.04 genus                Thermovibrio                            
+1          0        0.04 genus                Zunongwangia                            
+1          0        0.03 family               Alcanivoracaceae                        
+1          0        0.03 family               Bifidobacteriaceae                      
+1          0        0.03 family               Caldisericaceae                         
+1          0        0.03 family               Clostridiaceae                          
+1          0        0.03 family               Desulfurobacteriaceae                   
+1          0        0.03 family               Enterococcaceae                         
+1          0        0.03 family               Eubacteriaceae                          
+1          0        0.03 family               Flavobacteriaceae                       
+1          0        0.03 family               Hyphomicrobiaceae                       
+1          1        0.03 family               Lachnospiraceae                         
+1          0        0.03 family               Lactobacillaceae                        

@@ -1,0 +1,59 @@
+-----------4.blast8/QE_150611_131.blast8.sqlite3------------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 species group        Pseudomonas aeruginosa group            
+1799       61      99.34 family               Staphylococcaceae                       
+1738       1207    99.20 genus                Staphylococcus                          
+527        525     97.05 species              Staphylococcus aureus                   
+2          2       50.00 subspecies           Staphylococcus aureus subsp. aureus     
+1          0       25.00 subspecies           Desulfovibrio desulfuricans subsp. desulfuricans
+1          0       25.00 subspecies           Staphylococcus carnosus subsp. carnosus 
+2          2       15.38 no rank              Desulfurococcus kamchatkensis 1221n     
+1          1        7.69 no rank              Acidovorax ebreus TPSY                  
+1          0        7.69 no rank              Bacillales Family XII. Incertae Sedis   
+1          0        7.69 no rank              Bacillales incertae sedis               
+1          1        7.69 no rank              Brevibacillus brevis NBRC 100599        
+1          0        7.69 no rank              Burkholderiales Genera incertae sedis   
+1          1        7.69 no rank              Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774
+1          1        7.69 no rank              Myxococcus xanthus DK 1622              
+1          1        7.69 no rank              Octadecabacter antarcticus 307          
+1          1        7.69 no rank              Rubrivivax gelatinosus IL144            
+1          1        7.69 no rank              Staphylococcus carnosus subsp. carnosus TM300
+1          0        7.69 no rank              unclassified Burkholderiales            
+2          0        0.37 species              Desulfurococcus kamchatkensis           
+2          2        0.37 species              Staphylococcus pseudintermedius         
+1          0        0.18 species              Acidovorax ebreus                       
+1          1        0.18 species              Alicycliphilus denitrificans            
+1          0        0.18 species              Brevibacillus brevis                    
+1          0        0.18 species              Desulfovibrio desulfuricans             
+1          1        0.18 species              Exiguobacterium sp. AT1b                
+1          0        0.18 species              Myxococcus xanthus                      
+1          0        0.18 species              Octadecabacter antarcticus              
+1          1        0.18 species              Proteus mirabilis                       
+1          1        0.18 species              Pseudomonas aeruginosa                  
+1          0        0.18 species              Rubrivivax gelatinosus                  
+1          1        0.18 species              Staphylococcus argenteus                
+1          0        0.18 species              Staphylococcus carnosus                 
+2          0        0.11 genus                Desulfurococcus                         
+2          0        0.11 family               Comamonadaceae                          
+2          0        0.11 family               Desulfurococcaceae                      
+1          1        0.06 genus                Acholeplasma                            
+1          0        0.06 genus                Acidovorax                              
+1          0        0.06 genus                Alicycliphilus                          
+1          1        0.06 genus                Anaeromyxobacter                        
+1          0        0.06 genus                Brevibacillus                           
+1          0        0.06 genus                Desulfovibrio                           
+1          0        0.06 genus                Exiguobacterium                         
+1          0        0.06 genus                Myxococcus                              
+1          0        0.06 genus                Octadecabacter                          
+1          0        0.06 genus                Proteus                                 
+1          0        0.06 genus                Pseudomonas                             
+1          0        0.06 genus                Rubrivivax                              
+1          0        0.06 family               Acholeplasmataceae                      
+1          0        0.06 family               Anaeromyxobacteraceae                   
+1          0        0.06 family               Desulfovibrionaceae                     
+1          0        0.06 family               Enterobacteriaceae                      
+1          0        0.06 family               Myxococcaceae                           
+1          0        0.06 family               Paenibacillaceae                        
+1          0        0.06 family               Pseudomonadaceae                        
+1          0        0.06 family               Rhodobacteraceae                        
