@@ -1,0 +1,77 @@
+--------4.blast8/QE_150611_131.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 species group        Pseudomonas aeruginosa group            
+2623       101     99.13 family               Staphylococcaceae                       
+2521       1809    99.10 genus                Staphylococcus                          
+708        702     97.25 species              Staphylococcus aureus                   
+6          5       85.71 subspecies           Staphylococcus aureus subsp. aureus     
+2          2       14.29 no rank              Nitrosococcus watsonii C-113            
+1          0       14.29 subspecies           Staphylococcus carnosus subsp. carnosus 
+1          0        7.14 no rank              Bacillales Family XII. Incertae Sedis   
+1          0        7.14 no rank              Bacillales incertae sedis               
+1          1        7.14 no rank              Burkholderia gladioli BSR3              
+1          1        7.14 no rank              Desulfurococcus kamchatkensis 1221n     
+1          1        7.14 no rank              Isoptericola variabilis 225             
+1          1        7.14 no rank              Macrococcus caseolyticus JCSC5402       
+1          1        7.14 no rank              Megasphaera elsdenii DSM 20460          
+1          1        7.14 no rank              Meiothermus ruber DSM 1279              
+1          1        7.14 no rank              Myxococcus xanthus DK 1622              
+1          0        7.14 no rank              Sinorhizobium/Ensifer group             
+1          1        7.14 no rank              Staphylococcus aureus subsp. aureus JKD6159
+1          1        7.14 no rank              Staphylococcus carnosus subsp. carnosus TM300
+3          3        0.41 species              Staphylococcus epidermidis              
+2          0        0.27 species              Nitrosococcus watsonii                  
+1          1        0.14 species              Alicycliphilus denitrificans            
+1          0        0.14 species              Burkholderia gladioli                   
+1          1        0.14 species              Clostridium perfringens                 
+1          0        0.14 species              Desulfurococcus kamchatkensis           
+1          1        0.14 species              Exiguobacterium sp. AT1b                
+1          1        0.14 species              Herminiimonas arsenicoxydans            
+1          0        0.14 species              Isoptericola variabilis                 
+1          0        0.14 species              Macrococcus caseolyticus                
+1          0        0.14 species              Megasphaera elsdenii                    
+1          0        0.14 species              Meiothermus ruber                       
+1          1        0.14 species              Methylobacterium sp. 4-46               
+1          0        0.14 species              Myxococcus xanthus                      
+1          1        0.14 species              Pseudomonas aeruginosa                  
+1          1        0.14 species              Sinorhizobium meliloti                  
+1          0        0.14 species              Staphylococcus carnosus                 
+2          1        0.08 genus                Methylobacterium                        
+2          2        0.08 genus                Mycobacterium                           
+2          0        0.08 genus                Nitrosococcus                           
+2          2        0.08 family               Bacillaceae                             
+2          0        0.08 family               Chromatiaceae                           
+2          0        0.08 family               Methylobacteriaceae                     
+2          0        0.08 family               Mycobacteriaceae                        
+2          0        0.08 family               Thermoanaerobacterales Family III. Incertae Sedis
+1          0        0.04 genus                Alicycliphilus                          
+1          0        0.04 genus                Burkholderia                            
+1          1        0.04 genus                Caldicellulosiruptor                    
+1          0        0.04 genus                Clostridium                             
+1          0        0.04 genus                Desulfurococcus                         
+1          0        0.04 genus                Exiguobacterium                         
+1          0        0.04 genus                Herminiimonas                           
+1          0        0.04 genus                Isoptericola                            
+1          1        0.04 genus                Lactobacillus                           
+1          0        0.04 genus                Macrococcus                             
+1          0        0.04 genus                Megasphaera                             
+1          0        0.04 genus                Meiothermus                             
+1          0        0.04 genus                Myxococcus                              
+1          0        0.04 genus                Pseudomonas                             
+1          0        0.04 genus                Sinorhizobium                           
+1          1        0.04 genus                Streptococcus                           
+1          1        0.04 genus                Thermoanaerobacterium                   
+1          0        0.04 family               Burkholderiaceae                        
+1          0        0.04 family               Clostridiaceae                          
+1          0        0.04 family               Comamonadaceae                          
+1          0        0.04 family               Desulfurococcaceae                      
+1          0        0.04 family               Lactobacillaceae                        
+1          0        0.04 family               Myxococcaceae                           
+1          0        0.04 family               Oxalobacteraceae                        
+1          0        0.04 family               Promicromonosporaceae                   
+1          0        0.04 family               Pseudomonadaceae                        
+1          0        0.04 family               Rhizobiaceae                            
+1          0        0.04 family               Streptococcaceae                        
+1          0        0.04 family               Thermaceae                              
+1          0        0.04 family               Veillonellaceae                         

@@ -1,0 +1,147 @@
+--------4.blast8/QE_150611_143.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2763       1930    98.86 family               Enterobacteriaceae                      
+806        371     93.07 genus                Escherichia                             
+435        430     89.32 species              Escherichia coli                        
+4          0       40.00 subspecies           Morganella morganii subsp. morganii     
+1          0       33.33 species group        Enterobacter cloacae complex            
+1          1       33.33 species group        Mycoplasma mycoides group               
+1          1       33.33 species group        pseudomallei group                      
+2          0       20.00 subspecies           Aeromonas salmonicida subsp. salmonicida
+2          0       20.00 subspecies           Selenomonas ruminantium subsp. lactilytica
+1          0       10.00 subspecies           Enterobacter cloacae subsp. cloacae     
+1          0       10.00 subspecies           Pectobacterium carotovorum subsp. carotovorum
+4          3        8.33 no rank              Escherichia coli K-12                   
+4          4        8.33 no rank              Morganella morganii subsp. morganii KT  
+2          2        4.17 no rank              Aeromonas salmonicida subsp. salmonicida A449
+2          0        4.17 no rank              Bacteroidetes/Chlorobi group            
+2          2        4.17 no rank              Raoultella ornithinolytica B6           
+2          2        4.17 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+2          0        4.17 no rank              unclassified Enterobacteriaceae         
+2          0        4.17 no rank              unclassified Enterobacteriaceae (miscellaneous)
+2          0        4.17 no rank              unclassified Gammaproteobacteria        
+1          1        2.08 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          1        2.08 no rank              Alteromonas mediterranea U8             
+1          1        2.08 no rank              Bacteroides salanitronis DSM 18170      
+1          1        2.08 no rank              Baumannia cicadellinicola str. Hc (Homalodisca coagulata)
+1          0        2.08 no rank              Candidatus Baumannia                    
+1          1        2.08 no rank              Candidatus Riesia pediculicola USDA     
+1          1        2.08 no rank              Citrobacter rodentium ICC168            
+1          1        2.08 no rank              Cyanobacterium stanieri PCC 7202        
+1          1        2.08 no rank              Desulfotalea psychrophila LSv54         
+1          1        2.08 no rank              Dickeya dadantii Ech586                 
+1          1        2.08 no rank              Dickeya dadantii Ech703                 
+1          1        2.08 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        2.08 no rank              Escherichia coli BW2952                 
+1          1        2.08 no rank              Escherichia coli NA114                  
+1          1        2.08 no rank              Flavobacterium indicum GPTSA100-9 = DSM 17447
+1          1        2.08 no rank              Gluconacetobacter diazotrophicus PA1 5  
+1          1        2.08 no rank              Pantoea ananatis AJ13355                
+1          1        2.08 no rank              Pectobacterium carotovorum subsp. carotovorum PC1
+1          1        2.08 no rank              Polaromonas naphthalenivorans CJ2       
+1          1        2.08 no rank              Ruminococcus albus 7 = DSM 20455        
+1          1        2.08 no rank              Selenomonas sputigena ATCC 35185        
+1          1        2.08 no rank              Shimwellia blattae DSM 4481 = NBRC 105725
+1          1        2.08 no rank              Simiduia agarivorans SA1 = DSM 21679    
+1          1        2.08 no rank              Streptococcus mitis B6                  
+1          0        2.08 no rank              unclassified Gammaproteobacteria (miscellaneous)
+1          1        2.08 no rank              Verminephrobacter eiseniae EF01-2       
+4          4        0.82 species              Erwinia pyrifoliae                      
+4          0        0.82 species              Morganella morganii                     
+4          0        0.46 genus                Erwinia                                 
+4          0        0.46 genus                Morganella                              
+4          3        0.46 genus                Vibrio                                  
+2          0        0.41 species              Aeromonas salmonicida                   
+2          0        0.41 species              Dickeya dadantii                        
+2          2        0.41 species              Leptolyngbya sp. PCC 7376               
+2          1        0.41 species              Pantoea ananatis                        
+2          2        0.41 species              Plautia stali symbiont                  
+2          0        0.41 species              Raoultella ornithinolytica              
+2          0        0.41 species              Selenomonas ruminantium                 
+3          1        0.35 genus                Aeromonas                               
+3          1        0.35 genus                Dickeya                                 
+3          0        0.35 genus                Selenomonas                             
+2          0        0.23 genus                Leptolyngbya                            
+2          0        0.23 genus                Pantoea                                 
+2          2        0.23 genus                Pseudomonas                             
+2          0        0.23 genus                Raoultella                              
+2          0        0.23 genus                Streptococcus                           
+1          1        0.21 species              Achromobacter xylosoxidans              
+1          0        0.21 species              Aggregatibacter actinomycetemcomitans   
+1          0        0.21 species              Alteromonas mediterranea                
+1          0        0.21 species              Bacteroides salanitronis                
+1          1        0.21 species              Buchnera aphidicola                     
+1          0        0.21 species              Candidatus Baumannia cicadellinicola    
+1          1        0.21 species              Candidatus Moranella endobia            
+1          0        0.21 species              Candidatus Riesia pediculicola          
+1          0        0.21 species              Citrobacter rodentium                   
+1          0        0.21 species              Cyanobacterium stanieri                 
+1          0        0.21 species              Desulfotalea psychrophila               
+1          0        0.21 species              Enterobacter cloacae                    
+1          1        0.21 species              Faecalibacterium prausnitzii            
+1          0        0.21 species              Flavobacterium indicum                  
+1          1        0.21 species              gamma proteobacterium HdN1              
+1          1        0.21 species              Glaciecola sp. 4H-3-7+YE-5              
+1          0        0.21 species              Gluconacetobacter diazotrophicus        
+1          1        0.21 species              Pasteurella multocida                   
+1          0        0.21 species              Pectobacterium carotovorum              
+1          0        0.21 species              Polaromonas naphthalenivorans           
+1          1        0.21 species              Proteus mirabilis                       
+1          0        0.21 species              Ruminococcus albus                      
+1          0        0.21 species              Selenomonas sputigena                   
+1          0        0.21 species              Shimwellia blattae                      
+1          0        0.21 species              Simiduia agarivorans                    
+1          0        0.21 species              Streptococcus mitis                     
+1          1        0.21 species              Streptococcus pneumoniae                
+1          1        0.21 species              Streptomyces sp. PAMC26508              
+1          0        0.21 species              Verminephrobacter eiseniae              
+1          1        0.21 species              Vibrio sp. EJY3                         
+4          0        0.14 family               Vibrionaceae                            
+1          0        0.12 genus                Achromobacter                           
+1          0        0.12 genus                Aggregatibacter                         
+1          0        0.12 genus                Alteromonas                             
+1          0        0.12 genus                Bacteroides                             
+1          1        0.12 genus                Borrelia                                
+1          0        0.12 genus                Buchnera                                
+1          0        0.12 genus                Burkholderia                            
+1          0        0.12 genus                Candidatus Moranella                    
+1          0        0.12 genus                Candidatus Riesia                       
+1          0        0.12 genus                Citrobacter                             
+1          0        0.12 genus                Cyanobacterium                          
+1          0        0.12 genus                Desulfotalea                            
+1          0        0.12 genus                Enterobacter                            
+1          0        0.12 genus                Faecalibacterium                        
+1          0        0.12 genus                Flavobacterium                          
+1          0        0.12 genus                Glaciecola                              
+1          0        0.12 genus                Gluconacetobacter                       
+1          0        0.12 genus                Mycoplasma                              
+1          0        0.12 genus                Pasteurella                             
+1          0        0.12 genus                Pectobacterium                          
+1          0        0.12 genus                Polaromonas                             
+1          0        0.12 genus                Proteus                                 
+1          0        0.12 genus                Ruminococcus                            
+1          1        0.12 genus                Serratia                                
+1          0        0.12 genus                Shimwellia                              
+1          0        0.12 genus                Simiduia                                
+1          0        0.12 genus                Streptomyces                            
+1          0        0.12 genus                Verminephrobacter                       
+1          1        0.12 genus                Yersinia                                
+3          0        0.11 family               Aeromonadaceae                          
+3          0        0.11 family               Veillonellaceae                         
+2          0        0.07 family               Alteromonadaceae                        
+2          0        0.07 family               Comamonadaceae                          
+2          0        0.07 family               Pasteurellaceae                         
+2          0        0.07 family               Pseudomonadaceae                        
+2          0        0.07 family               Ruminococcaceae                         
+2          0        0.07 family               Streptococcaceae                        
+1          0        0.04 family               Acetobacteraceae                        
+1          0        0.04 family               Alcaligenaceae                          
+1          0        0.04 family               Bacteroidaceae                          
+1          0        0.04 family               Borreliaceae                            
+1          0        0.04 family               Burkholderiaceae                        
+1          0        0.04 family               Cellvibrionaceae                        
+1          0        0.04 family               Desulfobulbaceae                        
+1          0        0.04 family               Flavobacteriaceae                       
+1          0        0.04 family               Mycoplasmataceae                        
+1          0        0.04 family               Streptomycetaceae                       

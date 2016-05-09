@@ -1,0 +1,131 @@
+--------4.blast8/QE_150611_146.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2887       2022    99.01 family               Enterobacteriaceae                      
+841        379     94.18 genus                Escherichia                             
+462        459     91.30 species              Escherichia coli                        
+2          0       50.00 species group        Pseudomonas aeruginosa group            
+3          0       30.00 subspecies           Morganella morganii subsp. morganii     
+3          0       30.00 subspecies           Selenomonas ruminantium subsp. lactilytica
+1          0       25.00 species group        Enterobacter cloacae complex            
+1          1       25.00 species group        Pseudomonas putida group                
+1          0       10.00 subspecies           Aeromonas salmonicida subsp. salmonicida
+1          1       10.00 subspecies           Clavibacter michiganensis subsp. sepedonicus
+1          0       10.00 subspecies           Enterobacter cloacae subsp. cloacae     
+1          0       10.00 subspecies           Pectobacterium carotovorum subsp. carotovorum
+3          3        6.98 no rank              Morganella morganii subsp. morganii KT  
+3          3        6.98 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+3          0        6.98 no rank              unclassified Enterobacteriaceae         
+2          2        4.65 no rank              Alteromonas mediterranea U8             
+2          1        4.65 no rank              Bacteroidetes/Chlorobi group            
+2          2        4.65 no rank              Candidatus Riesia pediculicola USDA     
+2          2        4.65 no rank              Raoultella ornithinolytica B6           
+2          2        4.65 no rank              Tolumonas auensis DSM 9187              
+2          0        4.65 no rank              unclassified Enterobacteriaceae (miscellaneous)
+1          1        2.33 no rank              Aeromonas salmonicida subsp. salmonicida A449
+1          0        2.33 no rank              ant endosymbionts                       
+1          0        2.33 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          1        2.33 no rank              Buchnera aphidicola (Acyrthosiphon pisum)
+1          1        2.33 no rank              Citrobacter rodentium ICC168            
+1          0        2.33 no rank              Clostridium saccharoperbutylacetonicum N1-4
+1          1        2.33 no rank              Clostridium saccharoperbutylacetonicum N1-4(HMT)
+1          1        2.33 no rank              Cyanobacterium stanieri PCC 7202        
+1          1        2.33 no rank              Dickeya dadantii Ech586                 
+1          1        2.33 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        2.33 no rank              Escherichia coli ED1a                   
+1          1        2.33 no rank              Escherichia coli K-12                   
+1          1        2.33 no rank              Escherichia coli NA114                  
+1          1        2.33 no rank              Flavobacterium indicum GPTSA100-9 = DSM 17447
+1          1        2.33 no rank              Frankia alni ACN14a                     
+1          1        2.33 no rank              Pectobacterium carotovorum subsp. carotovorum PC1
+1          1        2.33 no rank              Phycisphaera mikurensis NBRC 102666     
+1          1        2.33 no rank              Providencia stuartii MRSN 2154          
+1          1        2.33 no rank              Selenomonas sputigena ATCC 35185        
+1          1        2.33 no rank              Streptococcus mitis B6                  
+1          1        2.33 no rank              Thermomicrobium roseum DSM 5159         
+1          0        2.33 no rank              unclassified Betaproteobacteria         
+6          3        0.67 genus                Pseudomonas                             
+3          0        0.59 species              Morganella morganii                     
+3          0        0.59 species              Selenomonas ruminantium                 
+4          0        0.45 genus                Selenomonas                             
+2          0        0.40 species              Alteromonas mediterranea                
+2          0        0.40 species              Candidatus Riesia pediculicola          
+2          2        0.40 species              Plautia stali symbiont                  
+2          2        0.40 species              Pseudomonas aeruginosa                  
+2          0        0.40 species              Raoultella ornithinolytica              
+2          0        0.40 species              Tolumonas auensis                       
+3          2        0.34 genus                Erwinia                                 
+3          0        0.34 genus                Morganella                              
+2          0        0.22 genus                Alteromonas                             
+2          0        0.22 genus                Candidatus Riesia                       
+2          0        0.22 genus                Enterobacter                            
+2          0        0.22 genus                Raoultella                              
+2          0        0.22 genus                Tolumonas                               
+6          0        0.21 family               Pseudomonadaceae                        
+1          1        0.20 species              Achromobacter xylosoxidans              
+1          0        0.20 species              Aeromonas salmonicida                   
+1          0        0.20 species              Buchnera aphidicola                     
+1          1        0.20 species              Candidatus Blochmannia floridanus       
+1          1        0.20 species              Candidatus Tremblaya princeps           
+1          0        0.20 species              Citrobacter rodentium                   
+1          0        0.20 species              Clavibacter michiganensis               
+1          0        0.20 species              Clostridium saccharoperbutylacetonicum  
+1          0        0.20 species              Cyanobacterium stanieri                 
+1          0        0.20 species              Dickeya dadantii                        
+1          0        0.20 species              Enterobacter cloacae                    
+1          1        0.20 species              Enterobacter sp. R4-368                 
+1          1        0.20 species              Erwinia pyrifoliae                      
+1          0        0.20 species              Flavobacterium indicum                  
+1          1        0.20 species              Francisella tularensis                  
+1          0        0.20 species              Frankia alni                            
+1          1        0.20 species              Leptolyngbya sp. PCC 7376               
+1          1        0.20 species              Marinobacter hydrocarbonoclasticus      
+1          1        0.20 species              Pasteurella multocida                   
+1          0        0.20 species              Pectobacterium carotovorum              
+1          0        0.20 species              Phycisphaera mikurensis                 
+1          1        0.20 species              Proteus mirabilis                       
+1          0        0.20 species              Providencia stuartii                    
+1          0        0.20 species              Selenomonas sputigena                   
+1          0        0.20 species              Streptococcus mitis                     
+1          0        0.20 species              Thermomicrobium roseum                  
+4          0        0.14 family               Veillonellaceae                         
+1          0        0.11 genus                Achromobacter                           
+1          0        0.11 genus                Aeromonas                               
+1          1        0.11 genus                Bordetella                              
+1          0        0.11 genus                Buchnera                                
+1          0        0.11 genus                Candidatus Blochmannia                  
+1          0        0.11 genus                Candidatus Tremblaya                    
+1          0        0.11 genus                Citrobacter                             
+1          0        0.11 genus                Clavibacter                             
+1          0        0.11 genus                Clostridium                             
+1          0        0.11 genus                Cyanobacterium                          
+1          0        0.11 genus                Dickeya                                 
+1          1        0.11 genus                Edwardsiella                            
+1          0        0.11 genus                Flavobacterium                          
+1          0        0.11 genus                Francisella                             
+1          0        0.11 genus                Frankia                                 
+1          0        0.11 genus                Leptolyngbya                            
+1          0        0.11 genus                Marinobacter                            
+1          1        0.11 genus                Pantoea                                 
+1          0        0.11 genus                Pasteurella                             
+1          0        0.11 genus                Pectobacterium                          
+1          0        0.11 genus                Phycisphaera                            
+1          0        0.11 genus                Proteus                                 
+1          0        0.11 genus                Providencia                             
+1          0        0.11 genus                Streptococcus                           
+1          0        0.11 genus                Thermomicrobium                         
+1          1        0.11 genus                Yersinia                                
+3          0        0.10 family               Aeromonadaceae                          
+3          0        0.10 family               Alteromonadaceae                        
+2          0        0.07 family               Alcaligenaceae                          
+1          1        0.03 family               Borreliaceae                            
+1          0        0.03 family               Clostridiaceae                          
+1          0        0.03 family               Flavobacteriaceae                       
+1          0        0.03 family               Francisellaceae                         
+1          0        0.03 family               Frankiaceae                             
+1          0        0.03 family               Microbacteriaceae                       
+1          0        0.03 family               Pasteurellaceae                         
+1          0        0.03 family               Phycisphaeraceae                        
+1          1        0.03 family               Rhodobacteraceae                        
+1          0        0.03 family               Streptococcaceae                        
+1          0        0.03 family               Thermomicrobiaceae                      

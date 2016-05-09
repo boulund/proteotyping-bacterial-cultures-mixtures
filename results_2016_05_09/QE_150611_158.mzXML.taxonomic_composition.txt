@@ -1,0 +1,117 @@
+--------4.blast8/QE_150611_158.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 species subgroup     Pseudomonas stutzeri subgroup           
+2225       111     99.55 species group        Pseudomonas aeruginosa group            
+3478       350     99.31 family               Pseudomonadaceae                        
+3128       893     99.30 genus                Pseudomonas                             
+2114       2104    98.65 species              Pseudomonas aeruginosa                  
+5          5       10.64 no rank              Pseudomonas putida W619                 
+3          3        6.38 no rank              Pseudomonas aeruginosa B136-33          
+2          2        4.26 no rank              Pseudomonas aeruginosa PA7              
+2          2        4.26 no rank              Pseudomonas aeruginosa SCV20265         
+2          2        4.26 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+2          0        4.26 no rank              Sinorhizobium/Ensifer group             
+1          1        2.13 no rank              Akkermansia muciniphila ATCC BAA-835    
+1          1        2.13 no rank              Alkalilimnicola ehrlichii MLHE-1        
+1          0        2.13 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        2.13 no rank              aphid secondary symbionts               
+1          0        2.13 no rank              Bacteroidetes/Chlorobi group            
+1          0        2.13 no rank              Burkholderiales Genera incertae sedis   
+1          0        2.13 no rank              Chlamydiae/Verrucomicrobia group        
+1          0        2.13 no rank              Chlorobium/Pelodictyon group            
+1          1        2.13 no rank              Glaciecola nitratireducens FR1064       
+1          1        2.13 no rank              Macrococcus caseolyticus JCSC5402       
+1          1        2.13 no rank              Methylibium petroleiphilum PM1          
+1          1        2.13 no rank              Nautilia profundicola AmH               
+1          1        2.13 no rank              Nitrosospira multiformis ATCC 25196     
+1          1        2.13 no rank              Pelodictyon phaeoclathratiforme BU-1    
+1          1        2.13 no rank              Pseudomonas aeruginosa PAO1             
+1          1        2.13 no rank              Pseudomonas denitrificans ATCC 13867    
+1          1        2.13 no rank              Pseudomonas entomophila L48             
+1          1        2.13 no rank              Pseudomonas fulva 12-X                  
+1          1        2.13 no rank              Rhodococcus equi 103S                   
+1          1        2.13 no rank              Rhodopseudomonas palustris TIE-1        
+1          1        2.13 no rank              Simiduia agarivorans SA1 = DSM 21679    
+1          0        2.13 no rank              Sinorhizobium fredii group              
+1          1        2.13 no rank              Sinorhizobium fredii NGR234             
+1          1        2.13 no rank              Syntrophus aciditrophicus SB            
+1          1        2.13 no rank              Teredinibacter turnerae T7901           
+1          1        2.13 no rank              Thioflavicoccus mobilis 8321            
+1          1        2.13 no rank              Treponema azotonutricium ZAS-9          
+1          0        2.13 no rank              unclassified Burkholderiales            
+1          0        2.13 no rank              unclassified Enterobacteriaceae         
+1          0        2.13 no rank              whitefly endosymbionts                  
+1          0        2.13 no rank              Zymobacter group                        
+6          0        0.27 species group        Pseudomonas putida group                
+5          0        0.23 species              Pseudomonas putida                      
+2          1        0.06 genus                Sinorhizobium                           
+2          0        0.06 family               Cellvibrionaceae                        
+2          1        0.06 family               Enterobacteriaceae                      
+2          0        0.06 family               Rhizobiaceae                            
+1          0        0.05 species              Akkermansia muciniphila                 
+1          0        0.05 species              Alkalilimnicola ehrlichii               
+1          1        0.05 species              Candidatus Portiera aleyrodidarum       
+1          0        0.05 species              Glaciecola nitratireducens              
+1          0        0.05 species              Macrococcus caseolyticus                
+1          0        0.05 species              Methylibium petroleiphilum              
+1          0        0.05 species              Nautilia profundicola                   
+1          0        0.05 species              Nitrosospira multiformis                
+1          1        0.05 species              Oceanimonas sp. GK1                     
+1          0        0.05 species              Pelodictyon phaeoclathratiforme         
+1          0        0.05 species              Pseudomonas denitrificans               
+1          0        0.05 species              Pseudomonas entomophila                 
+1          0        0.05 species              Pseudomonas fulva                       
+1          1        0.05 species              Pseudomonas protegens                   
+1          1        0.05 species              Pseudomonas stutzeri                    
+1          0        0.05 species              Rhodococcus equi                        
+1          0        0.05 species              Rhodopseudomonas palustris              
+1          1        0.05 species              secondary endosymbiont of Ctenarytaina eucalypti
+1          0        0.05 species              Simiduia agarivorans                    
+1          0        0.05 species              Sinorhizobium fredii                    
+1          0        0.05 species              Syntrophus aciditrophicus               
+1          0        0.05 species              Teredinibacter turnerae                 
+1          0        0.05 species              Thioflavicoccus mobilis                 
+1          0        0.05 species              Treponema azotonutricium                
+1          1        0.04 species group        pseudomallei group                      
+1          0        0.04 species group        Pseudomonas fluorescens group           
+1          0        0.04 species group        Pseudomonas pertucinogena group         
+1          0        0.04 species group        Pseudomonas stutzeri group              
+1          0        0.03 genus                Akkermansia                             
+1          0        0.03 genus                Alkalilimnicola                         
+1          0        0.03 genus                Burkholderia                            
+1          0        0.03 genus                Candidatus Portiera                     
+1          0        0.03 genus                Glaciecola                              
+1          1        0.03 genus                Hyphomicrobium                          
+1          0        0.03 genus                Macrococcus                             
+1          0        0.03 genus                Methylibium                             
+1          0        0.03 genus                Nautilia                                
+1          0        0.03 genus                Nitrosospira                            
+1          0        0.03 genus                Oceanimonas                             
+1          0        0.03 genus                Pelodictyon                             
+1          1        0.03 genus                Propionibacterium                       
+1          0        0.03 genus                Rhodococcus                             
+1          0        0.03 genus                Rhodopseudomonas                        
+1          0        0.03 genus                Simiduia                                
+1          0        0.03 genus                Syntrophus                              
+1          0        0.03 genus                Teredinibacter                          
+1          0        0.03 genus                Thioflavicoccus                         
+1          0        0.03 genus                Treponema                               
+1          0        0.03 family               Aeromonadaceae                          
+1          0        0.03 family               Akkermansiaceae                         
+1          0        0.03 family               Alteromonadaceae                        
+1          0        0.03 family               Bradyrhizobiaceae                       
+1          0        0.03 family               Burkholderiaceae                        
+1          0        0.03 family               Chlorobiaceae                           
+1          0        0.03 family               Chromatiaceae                           
+1          0        0.03 family               Ectothiorhodospiraceae                  
+1          0        0.03 family               Halomonadaceae                          
+1          0        0.03 family               Hyphomicrobiaceae                       
+1          0        0.03 family               Nautiliaceae                            
+1          0        0.03 family               Nitrosomonadaceae                       
+1          0        0.03 family               Nocardiaceae                            
+1          0        0.03 family               Propionibacteriaceae                    
+1          1        0.03 family               Rhodocyclaceae                          
+1          0        0.03 family               Spirochaetaceae                         
+1          0        0.03 family               Staphylococcaceae                       
+1          0        0.03 family               Syntrophaceae                           

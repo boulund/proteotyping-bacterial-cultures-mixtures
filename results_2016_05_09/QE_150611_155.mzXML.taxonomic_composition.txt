@@ -1,0 +1,88 @@
+--------4.blast8/QE_150611_155.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1294       58      99.77 species group        Pseudomonas aeruginosa group            
+1784       486     99.06 genus                Pseudomonas                             
+1991       207     99.05 family               Pseudomonadaceae                        
+1235       1225    98.41 species              Pseudomonas aeruginosa                  
+1          0       50.00 subspecies           Fibrobacter succinogenes subsp. succinogenes
+1          0       50.00 subspecies           Nocardiopsis dassonvillei subsp. dassonvillei
+4          4       12.50 no rank              Pseudomonas aeruginosa B136-33          
+3          3        9.38 no rank              Pseudomonas putida W619                 
+2          2        6.25 no rank              Pseudomonas aeruginosa PA7              
+2          2        6.25 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        3.12 no rank              Akkermansia muciniphila ATCC BAA-835    
+1          1        3.12 no rank              Aquifex aeolicus VF5                    
+1          0        3.12 no rank              Bacteroidetes/Chlorobi group            
+1          1        3.12 no rank              Buchnera aphidicola (Acyrthosiphon pisum)
+1          0        3.12 no rank              Chlamydiae/Verrucomicrobia group        
+1          1        3.12 no rank              Fibrobacter succinogenes subsp. succinogenes S85
+1          0        3.12 no rank              Fibrobacteres/Acidobacteria group       
+1          1        3.12 no rank              Glaciecola nitratireducens FR1064       
+1          1        3.12 no rank              Haemophilus parasuis ZJ0906             
+1          1        3.12 no rank              Mycobacterium chubuense NBB4            
+1          1        3.12 no rank              Nautilia profundicola AmH               
+1          1        3.12 no rank              Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111
+1          1        3.12 no rank              Propionibacterium propionicum F0230a    
+1          1        3.12 no rank              Pseudomonas aeruginosa PAO1             
+1          1        3.12 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        3.12 no rank              Pseudomonas entomophila L48             
+1          1        3.12 no rank              Pseudomonas mendocina ymp               
+1          1        3.12 no rank              Saprospira grandis str. Lewin           
+1          0        3.12 no rank              Sinorhizobium fredii group              
+1          1        3.12 no rank              Sinorhizobium fredii NGR234             
+1          0        3.12 no rank              Sinorhizobium/Ensifer group             
+3          0        0.24 species              Pseudomonas putida                      
+3          0        0.23 species group        Pseudomonas putida group                
+2          1        0.10 family               Enterobacteriaceae                      
+1          0        0.08 species              [Haemophilus] parasuis                  
+1          0        0.08 species              Akkermansia muciniphila                 
+1          1        0.08 species              Alicycliphilus denitrificans            
+1          0        0.08 species              Aquifex aeolicus                        
+1          0        0.08 species              Buchnera aphidicola                     
+1          0        0.08 species              Fibrobacter succinogenes                
+1          0        0.08 species              Glaciecola nitratireducens              
+1          0        0.08 species              Mycobacterium chubuense                 
+1          0        0.08 species              Nautilia profundicola                   
+1          0        0.08 species              Nocardiopsis dassonvillei               
+1          1        0.08 species              Paenibacillus mucilaginosus             
+1          0        0.08 species              Propionibacterium propionicum           
+1          0        0.08 species              Pseudomonas entomophila                 
+1          0        0.08 species              Pseudomonas mendocina                   
+1          1        0.08 species              Salinarchaeum sp. Harcht-Bsk1           
+1          0        0.08 species              Saprospira grandis                      
+1          0        0.08 species              Sinorhizobium fredii                    
+1          0        0.06 genus                Akkermansia                             
+1          0        0.06 genus                Alicycliphilus                          
+1          0        0.06 genus                Aquifex                                 
+1          0        0.06 genus                Buchnera                                
+1          1        0.06 genus                Cyanothece                              
+1          1        0.06 genus                Deinococcus                             
+1          0        0.06 genus                Fibrobacter                             
+1          0        0.06 genus                Glaciecola                              
+1          0        0.06 genus                Haemophilus                             
+1          0        0.06 genus                Mycobacterium                           
+1          0        0.06 genus                Nautilia                                
+1          0        0.06 genus                Nocardiopsis                            
+1          0        0.06 genus                Paenibacillus                           
+1          0        0.06 genus                Propionibacterium                       
+1          0        0.06 genus                Salinarchaeum                           
+1          0        0.06 genus                Saprospira                              
+1          0        0.06 genus                Sinorhizobium                           
+1          0        0.05 family               Akkermansiaceae                         
+1          1        0.05 family               Alcaligenaceae                          
+1          0        0.05 family               Alteromonadaceae                        
+1          0        0.05 family               Aquificaceae                            
+1          0        0.05 family               Comamonadaceae                          
+1          0        0.05 family               Deinococcaceae                          
+1          0        0.05 family               Fibrobacteraceae                        
+1          0        0.05 family               Mycobacteriaceae                        
+1          0        0.05 family               Natrialbaceae                           
+1          0        0.05 family               Nautiliaceae                            
+1          0        0.05 family               Nocardiopsaceae                         
+1          0        0.05 family               Paenibacillaceae                        
+1          0        0.05 family               Pasteurellaceae                         
+1          0        0.05 family               Propionibacteriaceae                    
+1          0        0.05 family               Rhizobiaceae                            
+1          0        0.05 family               Saprospiraceae                          
+1          1        0.05 family               Veillonellaceae                         

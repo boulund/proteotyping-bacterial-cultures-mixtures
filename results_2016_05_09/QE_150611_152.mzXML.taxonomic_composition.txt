@@ -1,0 +1,101 @@
+--------4.blast8/QE_150611_152.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1          0      100.00 species subgroup     Pseudomonas syringae group genomosp. 1  
+1          0      100.00 subspecies           Nocardiopsis dassonvillei subsp. dassonvillei
+1954       87      99.59 species group        Pseudomonas aeruginosa group            
+2721       758     99.27 genus                Pseudomonas                             
+3007       286     99.04 family               Pseudomonadaceae                        
+1866       1857    98.52 species              Pseudomonas aeruginosa                  
+4          4       11.11 no rank              Pseudomonas aeruginosa B136-33          
+4          4       11.11 no rank              Pseudomonas putida W619                 
+2          2        5.56 no rank              Pseudomonas aeruginosa PA7              
+1          1        2.78 no rank              Akkermansia muciniphila ATCC BAA-835    
+1          0        2.78 no rank              Bacteroidetes/Chlorobi group            
+1          1        2.78 no rank              Buchnera aphidicola (Acyrthosiphon pisum)
+1          0        2.78 no rank              Chlamydiae/Verrucomicrobia group        
+1          1        2.78 no rank              Desulfatibacillum alkenivorans AK-01    
+1          1        2.78 no rank              Glaciecola nitratireducens FR1064       
+1          1        2.78 no rank              Haemophilus parasuis ZJ0906             
+1          1        2.78 no rank              Hahella chejuensis KCTC 2396            
+1          1        2.78 no rank              Helicobacter heilmannii ASB1.4          
+1          1        2.78 no rank              Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111
+1          1        2.78 no rank              Photobacterium profundum SS9            
+1          1        2.78 no rank              Pseudomonas aeruginosa PAO1             
+1          1        2.78 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        2.78 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        2.78 no rank              Pseudomonas denitrificans ATCC 13867    
+1          1        2.78 no rank              Pseudomonas entomophila L48             
+1          1        2.78 no rank              Pseudomonas fulva 12-X                  
+1          1        2.78 no rank              Pseudomonas resinovorans NBRC 106553    
+1          0        2.78 no rank              Pseudomonas syringae pv. syringae       
+1          1        2.78 no rank              Pseudomonas syringae pv. syringae B728a 
+1          1        2.78 no rank              Rhodopirellula baltica SH 1             
+1          0        2.78 no rank              Sinorhizobium fredii group              
+1          1        2.78 no rank              Sinorhizobium fredii NGR234             
+1          0        2.78 no rank              Sinorhizobium/Ensifer group             
+1          1        2.78 no rank              Sorangium cellulosum So0157-2           
+1          1        2.78 no rank              Treponema azotonutricium ZAS-9          
+12         9        0.40 family               Enterobacteriaceae                      
+5          0        0.25 species group        Pseudomonas putida group                
+4          0        0.21 species              Pseudomonas putida                      
+2          2        0.11 species              Escherichia coli                        
+2          0        0.07 genus                Escherichia                             
+2          0        0.07 family               Alteromonadaceae                        
+2          0        0.07 family               Vibrionaceae                            
+1          0        0.05 species              [Haemophilus] parasuis                  
+1          0        0.05 species              Akkermansia muciniphila                 
+1          0        0.05 species              Buchnera aphidicola                     
+1          0        0.05 species              Desulfatibacillum alkenivorans          
+1          0        0.05 species              Glaciecola nitratireducens              
+1          0        0.05 species              Hahella chejuensis                      
+1          0        0.05 species              Helicobacter heilmannii                 
+1          1        0.05 species              Lacinutrix sp. 5H-3-7-4                 
+1          1        0.05 species              Modestobacter marinus                   
+1          0        0.05 species              Nocardiopsis dassonvillei               
+1          0        0.05 species              Photobacterium profundum                
+1          0        0.05 species              Pseudomonas denitrificans               
+1          0        0.05 species              Pseudomonas entomophila                 
+1          0        0.05 species              Pseudomonas fulva                       
+1          1        0.05 species              Pseudomonas protegens                   
+1          0        0.05 species              Pseudomonas resinovorans                
+1          0        0.05 species              Pseudomonas syringae                    
+1          0        0.05 species              Rhodopirellula baltica                  
+1          0        0.05 species              Sinorhizobium fredii                    
+1          0        0.05 species              Sorangium cellulosum                    
+1          0        0.05 species              Treponema azotonutricium                
+1          1        0.05 species              Vibrio cholerae                         
+1          0        0.05 species group        Pseudomonas fluorescens group           
+1          0        0.05 species group        Pseudomonas pertucinogena group         
+1          0        0.05 species group        Pseudomonas syringae group              
+1          0        0.04 genus                Akkermansia                             
+1          1        0.04 genus                Alteromonas                             
+1          0        0.04 genus                Buchnera                                
+1          0        0.04 genus                Desulfatibacillum                       
+1          0        0.04 genus                Glaciecola                              
+1          0        0.04 genus                Haemophilus                             
+1          0        0.04 genus                Hahella                                 
+1          0        0.04 genus                Helicobacter                            
+1          0        0.04 genus                Lacinutrix                              
+1          0        0.04 genus                Modestobacter                           
+1          1        0.04 genus                Nitrosococcus                           
+1          0        0.04 genus                Nocardiopsis                            
+1          0        0.04 genus                Photobacterium                          
+1          0        0.04 genus                Rhodopirellula                          
+1          0        0.04 genus                Sinorhizobium                           
+1          0        0.04 genus                Sorangium                               
+1          0        0.04 genus                Treponema                               
+1          0        0.04 genus                Vibrio                                  
+1          0        0.03 family               Akkermansiaceae                         
+1          0        0.03 family               Chromatiaceae                           
+1          0        0.03 family               Desulfobacteraceae                      
+1          0        0.03 family               Flavobacteriaceae                       
+1          0        0.03 family               Geodermatophilaceae                     
+1          0        0.03 family               Hahellaceae                             
+1          0        0.03 family               Helicobacteraceae                       
+1          0        0.03 family               Nocardiopsaceae                         
+1          0        0.03 family               Pasteurellaceae                         
+1          0        0.03 family               Planctomycetaceae                       
+1          0        0.03 family               Polyangiaceae                           
+1          0        0.03 family               Rhizobiaceae                            
+1          0        0.03 family               Spirochaetaceae                         

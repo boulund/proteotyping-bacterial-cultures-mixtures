@@ -1,0 +1,70 @@
+--------4.blast8/QE_150611_137.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+3031       2136    99.47 genus                Staphylococcus                          
+3145       114     99.46 family               Staphylococcaceae                       
+890        881     98.02 species              Staphylococcus aureus                   
+8          6       88.89 subspecies           Staphylococcus aureus subsp. aureus     
+1          1       50.00 species group        Candidatus Phytoplasma asteris          
+1          0       50.00 species group        Pseudomonas aeruginosa group            
+2          0       14.29 no rank              Fibrobacteres/Acidobacteria group       
+1          0       11.11 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1        7.14 no rank              Burkholderia gladioli BSR3              
+1          1        7.14 no rank              Candidatus Koribacter versatilis Ellin345
+1          1        7.14 no rank              Clostridium novyi NT                    
+1          1        7.14 no rank              Hyphomicrobium nitrativorans NL23       
+1          1        7.14 no rank              Methanocaldococcus jannaschii DSM 2661  
+1          1        7.14 no rank              Ruminococcus albus 7 = DSM 20455        
+1          1        7.14 no rank              Staphylococcus aureus CA-347            
+1          1        7.14 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1        7.14 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          1        7.14 no rank              Staphylococcus pasteuri SP1             
+1          1        7.14 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        7.14 no rank              Terriglobus roseus DSM 18391            
+2          2        0.22 species              Staphylococcus epidermidis              
+1          1        0.11 species              Alicycliphilus denitrificans            
+1          0        0.11 species              Burkholderia gladioli                   
+1          0        0.11 species              Candidatus Koribacter versatilis        
+1          0        0.11 species              Clostridium novyi                       
+1          1        0.11 species              Clostridium perfringens                 
+1          1        0.11 species              Herminiimonas arsenicoxydans            
+1          0        0.11 species              Hyphomicrobium nitrativorans            
+1          0        0.11 species              Methanocaldococcus jannaschii           
+1          1        0.11 species              Methylobacterium sp. 4-46               
+1          1        0.11 species              Pseudomonas aeruginosa                  
+1          0        0.11 species              Ruminococcus albus                      
+1          1        0.11 species              Spirochaeta thermophila                 
+1          1        0.11 species              Staphylococcus lugdunensis              
+1          0        0.11 species              Staphylococcus pasteuri                 
+1          0        0.11 species              Staphylococcus saprophyticus            
+1          0        0.11 species              Terriglobus roseus                      
+2          0        0.07 genus                Clostridium                             
+2          0        0.06 family               Acidobacteriaceae                       
+2          0        0.06 family               Clostridiaceae                          
+1          0        0.03 genus                Alicycliphilus                          
+1          0        0.03 genus                Burkholderia                            
+1          0        0.03 genus                Candidatus Koribacter                   
+1          0        0.03 genus                Candidatus Phytoplasma                  
+1          0        0.03 genus                Herminiimonas                           
+1          0        0.03 genus                Hyphomicrobium                          
+1          1        0.03 genus                Lactobacillus                           
+1          0        0.03 genus                Methanocaldococcus                      
+1          0        0.03 genus                Methylobacterium                        
+1          0        0.03 genus                Pseudomonas                             
+1          0        0.03 genus                Ruminococcus                            
+1          0        0.03 genus                Spirochaeta                             
+1          0        0.03 genus                Terriglobus                             
+1          1        0.03 genus                Thermoanaerobacterium                   
+1          0        0.03 family               Acholeplasmataceae                      
+1          1        0.03 family               Bacillaceae                             
+1          0        0.03 family               Burkholderiaceae                        
+1          0        0.03 family               Comamonadaceae                          
+1          0        0.03 family               Hyphomicrobiaceae                       
+1          0        0.03 family               Lactobacillaceae                        
+1          0        0.03 family               Methanocaldococcaceae                   
+1          0        0.03 family               Methylobacteriaceae                     
+1          0        0.03 family               Oxalobacteraceae                        
+1          0        0.03 family               Pseudomonadaceae                        
+1          0        0.03 family               Ruminococcaceae                         
+1          0        0.03 family               Spirochaetaceae                         
+1          0        0.03 family               Thermoanaerobacterales Family III. Incertae Sedis

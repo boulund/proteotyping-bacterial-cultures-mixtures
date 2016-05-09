@@ -1,0 +1,111 @@
+---------4.blast8/QE_150508_38.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+3417       2923    98.90 genus                Streptococcus                           
+3567       149     98.26 family               Streptococcaceae                        
+461        452     88.15 species              Streptococcus pneumoniae                
+5          3       83.33 species group        Streptococcus anginosus group           
+1          0       33.33 subspecies           Lactococcus lactis subsp. lactis        
+1          0       33.33 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1       33.33 subspecies           Streptococcus constellatus subsp. pharyngis
+8          8       22.22 no rank              Streptococcus pneumoniae P1031          
+7          0       19.44 no rank              Bacteroidetes/Chlorobi group            
+1          0       16.67 species group        Bacillus cereus group                   
+2          2        5.56 no rank              Streptococcus suis ST3                  
+21         19       4.02 species              Streptococcus suis                      
+1          1        2.78 no rank              Acholeplasma palmae J233                
+1          1        2.78 no rank              Anabaena variabilis ATCC 29413          
+1          1        2.78 no rank              Bacillus weihenstephanensis KBAB4       
+1          1        2.78 no rank              Lactococcus lactis subsp. lactis Il1403 
+1          1        2.78 no rank              Methanococcus aeolicus Nankai-3         
+1          1        2.78 no rank              Myxococcus xanthus DK 1622              
+1          1        2.78 no rank              Odoribacter splanchnicus DSM 20712      
+1          1        2.78 no rank              Oenococcus oeni PSU-1                   
+1          1        2.78 no rank              Paracoccus denitrificans PD1222         
+1          1        2.78 no rank              Ralstonia solanacearum CFBP2957         
+1          1        2.78 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        2.78 no rank              Streptococcus iniae SF1                 
+1          1        2.78 no rank              Streptococcus macedonicus ACA-DC 198    
+1          1        2.78 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        2.78 no rank              Streptococcus pseudopneumoniae IS7493   
+1          1        2.78 no rank              Sulfurihydrogenibium azorense Az-Fu1    
+1          1        2.78 no rank              Thalassolituus oleivorans MIL-1         
+1          1        2.78 no rank              Weissella koreensis KACC 15510          
+1          1        2.78 no rank              Zunongwangia profunda SM-A87            
+10         10       1.91 species              Calothrix sp. PCC 7507                  
+24         22       0.66 family               Staphylococcaceae                       
+2          2        0.38 species              Streptococcus mutans                    
+10         0        0.29 genus                Calothrix                               
+10         0        0.28 family               Rivulariaceae                           
+1          0        0.19 species              Acholeplasma palmae                     
+1          1        0.19 species              Amycolatopsis mediterranei              
+1          0        0.19 species              Anabaena variabilis                     
+1          0        0.19 species              Bacillus weihenstephanensis             
+1          1        0.19 species              Blattabacterium sp. (Blaberus giganteus)
+1          1        0.19 species              Enterococcus faecium                    
+1          1        0.19 species              Gardnerella vaginalis                   
+1          1        0.19 species              Lactobacillus brevis                    
+1          0        0.19 species              Lactococcus lactis                      
+1          0        0.19 species              Methanococcus aeolicus                  
+1          0        0.19 species              Myxococcus xanthus                      
+1          1        0.19 species              Oceanimonas sp. GK1                     
+1          0        0.19 species              Odoribacter splanchnicus                
+1          0        0.19 species              Oenococcus oeni                         
+1          0        0.19 species              Paracoccus denitrificans                
+1          1        0.19 species              Proteus mirabilis                       
+1          0        0.19 species              Ralstonia solanacearum                  
+1          0        0.19 species              Staphylococcus saprophyticus            
+1          1        0.19 species              Streptococcus agalactiae                
+1          1        0.19 species              Streptococcus anginosus                 
+1          0        0.19 species              Streptococcus constellatus              
+1          0        0.19 species              Streptococcus iniae                     
+1          0        0.19 species              Streptococcus macedonicus               
+1          0        0.19 species              Streptococcus pseudopneumoniae          
+1          1        0.19 species              Streptococcus pyogenes                  
+1          0        0.19 species              Sulfurihydrogenibium azorense           
+1          0        0.19 species              Thalassolituus oleivorans               
+1          0        0.19 species              Weissella koreensis                     
+1          0        0.19 species              Zunongwangia profunda                   
+4          0        0.11 family               Enterobacteriaceae                      
+4          2        0.11 family               Enterococcaceae                         
+3          3        0.09 genus                Edwardsiella                            
+2          1        0.06 genus                Enterococcus                            
+2          1        0.06 genus                Lactobacillus                           
+2          1        0.06 genus                Staphylococcus                          
+2          1        0.06 family               Bacillaceae                             
+2          0        0.06 family               Lactobacillaceae                        
+2          0        0.06 family               Leuconostocaceae                        
+1          0        0.03 genus                Acholeplasma                            
+1          0        0.03 genus                Amycolatopsis                           
+1          0        0.03 genus                Anabaena                                
+1          0        0.03 genus                Bacillus                                
+1          0        0.03 genus                Blattabacterium                         
+1          0        0.03 genus                Gardnerella                             
+1          0        0.03 genus                Lactococcus                             
+1          0        0.03 genus                Methanococcus                           
+1          0        0.03 genus                Myxococcus                              
+1          0        0.03 genus                Oceanimonas                             
+1          0        0.03 genus                Odoribacter                             
+1          0        0.03 genus                Oenococcus                              
+1          0        0.03 genus                Paracoccus                              
+1          0        0.03 genus                Proteus                                 
+1          0        0.03 genus                Ralstonia                               
+1          0        0.03 genus                Sulfurihydrogenibium                    
+1          0        0.03 genus                Thalassolituus                          
+1          0        0.03 genus                Weissella                               
+1          0        0.03 genus                Zunongwangia                            
+1          0        0.03 family               Acholeplasmataceae                      
+1          0        0.03 family               Aeromonadaceae                          
+1          0        0.03 family               Bifidobacteriaceae                      
+1          0        0.03 family               Blattabacteriaceae                      
+1          0        0.03 family               Burkholderiaceae                        
+1          0        0.03 family               Flavobacteriaceae                       
+1          1        0.03 family               Helicobacteraceae                       
+1          0        0.03 family               Hydrogenothermaceae                     
+1          0        0.03 family               Methanococcaceae                        
+1          0        0.03 family               Myxococcaceae                           
+1          0        0.03 family               Nostocaceae                             
+1          0        0.03 family               Oceanospirillaceae                      
+1          0        0.03 family               Porphyromonadaceae                      
+1          0        0.03 family               Pseudonocardiaceae                      
+1          0        0.03 family               Rhodobacteraceae                        

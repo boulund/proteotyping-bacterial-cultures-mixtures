@@ -1,0 +1,90 @@
+---------4.blast8/QE_150508_32.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2          1      100.00 species group        Streptococcus anginosus group           
+3641       3068    98.78 genus                Streptococcus                           
+3813       171     97.74 family               Streptococcaceae                        
+548        538     91.64 species              Streptococcus pneumoniae                
+1          0       50.00 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1       50.00 subspecies           Streptococcus constellatus subsp. pharyngis
+15         0       39.47 no rank              Bacteroidetes/Chlorobi group            
+5          5       13.16 no rank              Streptococcus pneumoniae P1031          
+3          3        7.89 no rank              Streptococcus pneumoniae gamPNI0373     
+2          2        5.26 no rank              Desulfitobacterium dehalogenans ATCC 51507
+19         18       3.18 species              Streptococcus suis                      
+1          1        2.63 no rank              Anabaena variabilis ATCC 29413          
+1          1        2.63 no rank              Kangiella koreensis DSM 16069           
+1          1        2.63 no rank              Methylomicrobium alcaliphilum 20Z       
+1          1        2.63 no rank              Oenococcus oeni PSU-1                   
+1          1        2.63 no rank              Rhizobium tropici CIAT 899              
+1          0        2.63 no rank              Rhizobium/Agrobacterium group           
+1          1        2.63 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        2.63 no rank              Streptococcus oralis Uo5                
+1          1        2.63 no rank              Streptococcus pneumoniae 670-6B         
+1          1        2.63 no rank              Streptococcus pneumoniae INV104         
+1          1        2.63 no rank              Streptococcus suis ST3                  
+1          1        2.63 no rank              Thalassolituus oleivorans MIL-1         
+1          1        2.63 no rank              Zunongwangia profunda SM-A87            
+11         11       1.84 species              Calothrix sp. PCC 7507                  
+42         41       1.08 family               Staphylococcaceae                       
+2          0        0.33 species              Desulfitobacterium dehalogenans         
+12         12       0.33 genus                Edwardsiella                            
+12         0        0.31 family               Enterobacteriaceae                      
+11         0        0.30 genus                Calothrix                               
+11         0        0.28 family               Rivulariaceae                           
+1          0        0.17 species              Anabaena variabilis                     
+1          1        0.17 species              Clostridium perfringens                 
+1          0        0.17 species              Kangiella koreensis                     
+1          1        0.17 species              Lactococcus lactis                      
+1          1        0.17 species              Leptolyngbya sp. PCC 7376               
+1          0        0.17 species              Methylomicrobium alcaliphilum           
+1          1        0.17 species              Oceanimonas sp. GK1                     
+1          0        0.17 species              Oenococcus oeni                         
+1          1        0.17 species              Paenibacillus sp. JDR-2                 
+1          0        0.17 species              Rhizobium tropici                       
+1          0        0.17 species              Staphylococcus saprophyticus            
+1          0        0.17 species              Streptococcus constellatus              
+1          1        0.17 species              Streptococcus mutans                    
+1          0        0.17 species              Streptococcus oralis                    
+1          1        0.17 species              Streptococcus parasanguinis             
+1          1        0.17 species              Streptococcus thermophilus              
+1          0        0.17 species              Thalassolituus oleivorans               
+1          0        0.17 species              Zunongwangia profunda                   
+3          1        0.08 family               Enterococcaceae                         
+2          0        0.05 genus                Desulfitobacterium                      
+2          2        0.05 genus                Enterococcus                            
+2          2        0.05 genus                Lactobacillus                           
+2          0        0.05 family               Lactobacillaceae                        
+2          0        0.05 family               Peptococcaceae                          
+1          1        0.03 genus                Acidiphilium                            
+1          0        0.03 genus                Anabaena                                
+1          1        0.03 genus                Borreliella                             
+1          0        0.03 genus                Clostridium                             
+1          0        0.03 genus                Kangiella                               
+1          0        0.03 genus                Lactococcus                             
+1          0        0.03 genus                Leptolyngbya                            
+1          0        0.03 genus                Methylomicrobium                        
+1          0        0.03 genus                Oceanimonas                             
+1          0        0.03 genus                Oenococcus                              
+1          0        0.03 genus                Paenibacillus                           
+1          0        0.03 genus                Rhizobium                               
+1          0        0.03 genus                Staphylococcus                          
+1          1        0.03 genus                Streptomyces                            
+1          0        0.03 genus                Thalassolituus                          
+1          0        0.03 genus                Zunongwangia                            
+1          0        0.03 family               Acetobacteraceae                        
+1          0        0.03 family               Aeromonadaceae                          
+1          0        0.03 family               Alcanivoracaceae                        
+1          0        0.03 family               Borreliaceae                            
+1          0        0.03 family               Clostridiaceae                          
+1          0        0.03 family               Flavobacteriaceae                       
+1          1        0.03 family               Halomonadaceae                          
+1          1        0.03 family               Helicobacteraceae                       
+1          1        0.03 family               Lachnospiraceae                         
+1          0        0.03 family               Leuconostocaceae                        
+1          0        0.03 family               Methylococcaceae                        
+1          0        0.03 family               Nostocaceae                             
+1          0        0.03 family               Oceanospirillaceae                      
+1          0        0.03 family               Paenibacillaceae                        
+1          0        0.03 family               Rhizobiaceae                            
+1          0        0.03 family               Streptomycetaceae                       

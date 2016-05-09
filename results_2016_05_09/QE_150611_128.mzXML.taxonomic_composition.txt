@@ -1,0 +1,88 @@
+--------4.blast8/QE_150611_128.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2919       2067    99.22 genus                Staphylococcus                          
+3017       98      99.21 family               Staphylococcaceae                       
+846        837     97.47 species              Staphylococcus aureus                   
+9          7       90.00 subspecies           Staphylococcus aureus subsp. aureus     
+2          0       66.67 species group        Pseudomonas aeruginosa group            
+1          1       33.33 species group        Candidatus Phytoplasma asteris          
+1          0       10.00 subspecies           Staphylococcus saprophyticus subsp. saprophyticus
+1          1        5.26 no rank              Aeromonas veronii B565                  
+1          1        5.26 no rank              Agrobacterium vitis S4                  
+1          1        5.26 no rank              Bacteroides thetaiotaomicron VPI-5482   
+1          0        5.26 no rank              Bacteroidetes/Chlorobi group            
+1          1        5.26 no rank              Clostridium novyi NT                    
+1          1        5.26 no rank              Desulfitobacterium dehalogenans ATCC 51507
+1          1        5.26 no rank              Isoptericola variabilis 225             
+1          1        5.26 no rank              Leptospira biflexa serovar Patoc        
+1          0        5.26 no rank              Leptospirales                           
+1          0        5.26 no rank              Rhizobium/Agrobacterium group           
+1          1        5.26 no rank              Selenomonas sputigena ATCC 35185        
+1          1        5.26 no rank              Serratia liquefaciens ATCC 27592        
+1          1        5.26 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1        5.26 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          1        5.26 no rank              Staphylococcus haemolyticus JCSC1435    
+1          1        5.26 no rank              Staphylococcus lugdunensis N920143      
+1          1        5.26 no rank              Staphylococcus pasteuri SP1             
+1          1        5.26 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        5.26 no rank              Streptomyces collinus Tu 365            
+2          2        0.23 species              Pseudomonas aeruginosa                  
+1          0        0.12 species              Aeromonas veronii                       
+1          0        0.12 species              Agrobacterium vitis                     
+1          1        0.12 species              Alicycliphilus denitrificans            
+1          0        0.12 species              Bacteroides thetaiotaomicron            
+1          0        0.12 species              Clostridium novyi                       
+1          1        0.12 species              Clostridium perfringens                 
+1          0        0.12 species              Desulfitobacterium dehalogenans         
+1          0        0.12 species              Isoptericola variabilis                 
+1          0        0.12 species              Leptospira biflexa                      
+1          1        0.12 species              Methylobacterium sp. 4-46               
+1          1        0.12 species              Oceanimonas sp. GK1                     
+1          0        0.12 species              Selenomonas sputigena                   
+1          0        0.12 species              Serratia liquefaciens                   
+1          1        0.12 species              Staphylococcus epidermidis              
+1          0        0.12 species              Staphylococcus haemolyticus             
+1          0        0.12 species              Staphylococcus lugdunensis              
+1          0        0.12 species              Staphylococcus pasteuri                 
+1          1        0.12 species              Staphylococcus pseudintermedius         
+1          0        0.12 species              Staphylococcus saprophyticus            
+1          0        0.12 species              Streptomyces collinus                   
+3          3        0.10 genus                Streptococcus                           
+3          0        0.10 family               Streptococcaceae                        
+2          0        0.07 genus                Clostridium                             
+2          0        0.07 genus                Pseudomonas                             
+2          0        0.07 family               Aeromonadaceae                          
+2          0        0.07 family               Clostridiaceae                          
+2          0        0.07 family               Pseudomonadaceae                        
+1          0        0.03 genus                Aeromonas                               
+1          0        0.03 genus                Agrobacterium                           
+1          0        0.03 genus                Alicycliphilus                          
+1          0        0.03 genus                Bacteroides                             
+1          1        0.03 genus                Caldicellulosiruptor                    
+1          0        0.03 genus                Candidatus Phytoplasma                  
+1          0        0.03 genus                Desulfitobacterium                      
+1          0        0.03 genus                Isoptericola                            
+1          1        0.03 genus                Lactobacillus                           
+1          0        0.03 genus                Leptospira                              
+1          0        0.03 genus                Methylobacterium                        
+1          1        0.03 genus                Mycobacterium                           
+1          0        0.03 genus                Oceanimonas                             
+1          0        0.03 genus                Selenomonas                             
+1          0        0.03 genus                Serratia                                
+1          0        0.03 genus                Streptomyces                            
+1          0        0.03 family               Acholeplasmataceae                      
+1          1        0.03 family               Bacillaceae                             
+1          0        0.03 family               Bacteroidaceae                          
+1          0        0.03 family               Comamonadaceae                          
+1          0        0.03 family               Enterobacteriaceae                      
+1          0        0.03 family               Lactobacillaceae                        
+1          0        0.03 family               Leptospiraceae                          
+1          0        0.03 family               Methylobacteriaceae                     
+1          0        0.03 family               Mycobacteriaceae                        
+1          0        0.03 family               Peptococcaceae                          
+1          0        0.03 family               Promicromonosporaceae                   
+1          0        0.03 family               Rhizobiaceae                            
+1          0        0.03 family               Streptomycetaceae                       
+1          0        0.03 family               Thermoanaerobacterales Family III. Incertae Sedis
+1          0        0.03 family               Veillonellaceae                         
